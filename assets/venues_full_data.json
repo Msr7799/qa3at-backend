@@ -1,0 +1,3276 @@
+[
+  {
+    "id": "cmllh9q0u0003mt40k4b0l4lz",
+    "name": "The Domain Bahrain",
+    "nameAr": "ذا دومين",
+    "description": "Hotel wedding venue in Manama listed on Zafaf.net. Indoor capacity: 100-200 guests. Contact the venue for package and pricing details.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 200,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 1000,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:15.965",
+    "updatedAt": "2026-02-13 22:47:15.965",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllh9q0u0004mt40a2czexxh",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.fivestaralliance.com%2Ffiles%2Ffivestaralliance.com%2Fstyles%2Fjuicebox_large%2Fpublic%2Ffield%2Fimage%2Fnodes%2F2014%2F23493%2F23493_4_thedomainbahrain_fsa-g.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "id": "cmllh9re00006mt40jsakmwbs",
+    "name": "Downtown Rotana",
+    "nameAr": "داون تاون روتانا",
+    "description": "Hotel wedding venue in Manama listed on Zafaf.net. Indoor capacity: up to 500 guests. Average cost shown: 12 BHD per person.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 500,
+    "minCapacity": 50,
+    "pricePerPerson": 12,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:17.736",
+    "updatedAt": "2026-02-13 22:47:17.736",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "per_person",
+    "subVenues": [
+      {
+        "venueName": "Al Maha Ballroom",
+        "venueType": "Ballroom",
+        "indoorOutdoor": "Indoor",
+        "capacity": {
+          "banquet": 150,
+          "maxGuests": 150
+        }
+      }
+    ],
+    "contacts": { "phone": null, "whatsapp": null, "email": null },
+    "parking": { "available": null, "capacity": null, "valet": null },
+    "accessibility": { "wheelchairAccessible": null, "elevators": null },
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllh9re00007mt406uv5j92j",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fohlala-magazine.com%2Fwp-content%2Fuploads%2F2022%2F11%2FAl-Maha-Ballroom-wedding-setup.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllh9re00008mt40tcj737id",
+        "url": "https://www.arabiaweddings.com/sites/default/files/companies/images/2016/11/downtown_rotana.jpg",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllh9re00009mt40afqfuyr6",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.arabiaweddings.com%2Fsites%2Fdefault%2Ffiles%2Fcompanies%2Fimages%2F2016%2F11%2Fdowntown_rotana.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllh9re0000amt409g7md3p3",
+        "url": "https://www.worldclassweddingvenues.com/Images/worldclassweddingvenues/User_0/Venue_17863/42992888-2000426126644219-8267361816263262208-n.jpg",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "id": "cmllh9re0000bmt40srkabw9h",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.worldclassweddingvenues.com%2FImages%2Fworldclassweddingvenues%2FUser_0%2FVenue_17863%2F42992888-2000426126644219-8267361816263262208-n.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 4
+      }
+    ]
+  },
+  {
+    "id": "cmllh9tf0000lmt402h9ggx6t",
+    "name": "The Art Hotelresort",
+    "nameAr": "فندق ومنتجع ذا آرت",
+    "description": "Hotel wedding venue in Manama listed on Zafaf.net. Large indoor/outdoor setup; pricing notes on the listing include BD 21++ per person (or BD 25.41 net).",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 500,
+    "minCapacity": 50,
+    "pricePerPerson": 21,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:20.365",
+    "updatedAt": "2026-02-13 22:47:20.365",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "per_person",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllh9tf1000mmt405e9ejqwv",
+        "url": "https://www.arabiaweddings.com/sites/default/files/companies/images/2016/11/art_rotana_amwaj_islands_hotel.png",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllh9tf1000nmt402smm3isd",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.arabiaweddings.com%2Fsites%2Fdefault%2Ffiles%2Fcompanies%2Fimages%2F2016%2F11%2Fart_rotana_amwaj_islands_hotel.png&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllh9tf1000omt403w79756i",
+        "url": "https://media-cdn.holidaycheck.com/w_1280,h_720,c_fit,q_auto,f_auto/ugc/images/ec7acfd7-6559-32da-8006-8f5eaf34e12a",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllh9tf1000pmt40maohrk89",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fmedia-cdn.holidaycheck.com%2Fw_1280%2Ch_720%2Cc_fit%2Cq_auto%2Cf_auto%2Fugc%2Fimages%2Fec7acfd7-6559-32da-8006-8f5eaf34e12a&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "id": "cmllh9ufb000rmt40e3wxquhw",
+    "name": "Majestic Arjaan By Rotana",
+    "nameAr": "ماجستيك أرجان من روتانا",
+    "description": "Hotel wedding venue in Manama listed on Zafaf.net. Indoor capacity: 50-100 guests. Average cost shown: 14 BHD per person.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 100,
+    "minCapacity": 50,
+    "pricePerPerson": 14,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:21.671",
+    "updatedAt": "2026-02-13 22:47:21.671",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "per_person",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllh9ufb000smt40xr165ou0",
+        "url": "https://www.arabiaweddings.com/sites/default/files/styles/max980/public/listing/2024/02/12/rotana.jpg?itok=HBJJn6a7",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllh9ufb000tmt40huy8fczm",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.arabiaweddings.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmax980%2Fpublic%2Flisting%2F2024%2F02%2F12%2Frotana.jpg%3Fitok%3DHBJJn6a7&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllh9ufb000umt40wmfg4sch",
+        "url": "https://imagesawe.s3.amazonaws.com/styles/max980/s3/uploads/images/2022/10/21/dscf1339.jpg",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllh9ufb000vmt40yq4l4n7r",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimagesawe.s3.amazonaws.com%2Fstyles%2Fmax980%2Fs3%2Fuploads%2Fimages%2F2022%2F10%2F21%2Fdscf1339.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "id": "cmllh9vfp000xmt404z5r1r9w",
+    "name": "Movenpick Hotel Bahrain",
+    "nameAr": "فندق موفنبيك البحرين",
+    "description": "Hotel wedding venue in Manama listed on Zafaf.net. Indoor and outdoor capacities shown up to ~500 guests. Contact the venue for package and pricing details.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 500,
+    "minCapacity": 120,
+    "pricePerPerson": 15,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:22.982",
+    "updatedAt": "2026-02-13 22:47:22.982",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "per_person",
+    "subVenues": [
+      {
+        "venueName": "Al Murjan Ballroom",
+        "venueType": "Ballroom",
+        "indoorOutdoor": "Indoor",
+        "capacity": {
+          "banquet": 300,
+          "minGuests": 120,
+          "maxGuests": 300
+        }
+      },
+      {
+        "venueName": "Expansive Garden Area",
+        "venueType": "Garden",
+        "indoorOutdoor": "Outdoor",
+        "capacity": {
+          "minGuests": 120,
+          "maxGuests": 300
+        }
+      }
+    ],
+    "contacts": { "phone": null, "whatsapp": null, "email": null },
+    "parking": { "available": null, "capacity": null, "valet": null },
+    "accessibility": { "wheelchairAccessible": null, "elevators": null },
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllh9vfp000ymt40zbvd55no",
+        "url": "https://ohlala-magazine.com/wp-content/uploads/2022/11/NIL1050-copy-900x600.jpg",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllh9vfp000zmt40ir10xhjr",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fohlala-magazine.com%2Fwp-content%2Fuploads%2F2022%2F11%2FNIL1050-copy.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllh9vfp0010mt40ze6lv88a",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.bahrain-confidential.com%2Fwp-content%2Fuploads%2F2022%2F12%2FNIL1027-2-1.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllh9vfp0011mt40ag7zgpxw",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimagesawe.s3.amazonaws.com%2Fstyles%2Fmax980%2Fs3%2Flisting%2F2019%2F01%2F24%2Fmovenpick_bahrain.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "id": "cmllh9vfp0012mt407ka84nhq",
+        "url": "https://www.bahrain-confidential.com/wp-content/uploads/2022/12/NIL1027-2-1.jpg",
+        "isPrimary": false,
+        "sortOrder": 4
+      }
+    ]
+  },
+  {
+    "id": "cmllh9wyf001amt40nltw3a0j",
+    "name": "Crowne Plaza Bahrain",
+    "nameAr": "كراون بلازا البحرين",
+    "description": "Hotel wedding venue in Manama listed on Zafaf.net. Indoor capacity up to 500; outdoor capacity 500+ guests.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 500,
+    "minCapacity": 50,
+    "pricePerPerson": 13,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:24.951",
+    "updatedAt": "2026-02-13 22:47:24.951",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "per_person",
+    "subVenues": [
+      {
+        "venueName": "Wedding Hall (foyer + pre-function + banquet hall)",
+        "venueType": "Hall",
+        "indoorOutdoor": "Indoor",
+        "notes": "Hotel can create an elaborate wedding hall setup."
+      }
+    ],
+    "contacts": { "phone": null, "whatsapp": null, "email": null },
+    "parking": { "available": null, "capacity": null, "valet": null },
+    "accessibility": { "wheelchairAccessible": null, "elevators": null },
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllh9wyf001bmt40reh30uvj",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fohlala-magazine.com%2Fwp-content%2Fuploads%2F2022%2F11%2FUntitled-3543-%25C3%2597-2362-px.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllh9wyf001cmt40aa36tvbp",
+        "url": "https://digital.ihg.com/is/image/ihg/crowne-plaza-manama-10460037897-2x1?wid=1100",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllh9wyf001dmt40jrxo744q",
+        "url": "https://digital.ihg.com/is/image/ihg/crowne-plaza-manama-10460034541-2x1?wid=1100",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllh9wyf001emt40dou0yo43",
+        "url": "https://i.zafaf.net/providers/500/preview_DNIVwIzNKYdYBoZsoWgGLqp68.jpg",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "id": "cmllh9wyf001fmt409a2c0rd2",
+        "url": "https://i.zafaf.net/providers/500/thumb_DNIVwIzNKYdYBoZsoWgGLqp68.jpg",
+        "isPrimary": false,
+        "sortOrder": 4
+      },
+      {
+        "id": "cmllh9wyf001gmt40n5qo3e9g",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fdigital.ihg.com%2Fis%2Fimage%2Fihg%2Fcrowne-plaza-manama-10460037897-2x1%3Fwid%3D1100&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 5
+      },
+      {
+        "id": "cmllh9wyf001hmt40ox0ffliu",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fdigital.ihg.com%2Fis%2Fimage%2Fihg%2Fcrowne-plaza-manama-10460034541-2x1%3Fwid%3D1100&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 6
+      },
+      {
+        "id": "cmllh9wyf001imt40587k7par",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F500%2Fpreview_DNIVwIzNKYdYBoZsoWgGLqp68.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 7
+      },
+      {
+        "id": "cmllh9wyf001jmt40wju10q62",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F500%2Fthumb_DNIVwIzNKYdYBoZsoWgGLqp68.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 8
+      }
+    ]
+  },
+  {
+    "id": "cmllh9ytk001vmt40nrnkglmq",
+    "name": "Golden Tulip Bahrain",
+    "nameAr": "جولدن توليب البحرين",
+    "description": "Hotel wedding venue in Manama listed on Zafaf.net. Large indoor/outdoor capacity (500+). Average cost shown: 14 BHD per person.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 500,
+    "minCapacity": 50,
+    "pricePerPerson": 14,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:27.369",
+    "updatedAt": "2026-02-13 22:47:27.369",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "per_person",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllh9ytk001wmt40uszbx9hl",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.worldclassweddingvenues.com%2FImages%2Fworldclassweddingvenues%2FUser_0%2FVenue_17862%2F60601328-xxl.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllh9ytk001xmt409rvdxize",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fq-xx.bstatic.com%2Fxdata%2Fimages%2Fhotel%2Fmax1024x768%2F79217068.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": "cmllh9ztv001zmt40dj951adu",
+    "name": "Le Meridien City Centre",
+    "nameAr": "لو ميريديان سيتي سنتر",
+    "description": "Hotel wedding venue in Manama listed on Zafaf.net. Indoor capacity: 50-100 guests. Average cost shown: 18 BHD per person.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 100,
+    "minCapacity": 50,
+    "pricePerPerson": 18,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:28.676",
+    "updatedAt": "2026-02-13 22:47:28.676",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "per_person",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllh9ztv0020mt40bam93va0",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fcache.marriott.com%2Fcontent%2Fdam%2Fmarriott-renditions%2FBAHMD%2Fbahmd-meeting-6655-hor-wide.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllh9ztw0021mt40r168rmh2",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.worldclassweddingvenues.com%2FImages%2Fworldclassweddingvenues%2FUser_0%2FVenue_17864%2F60161295-1185266381654543-538314231464853504-o.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": "cmllha1090023mt400u25cl8y",
+    "name": "The Ritz Carlton Bahrain Hotel Spa",
+    "nameAr": "ريتز كارلتون هوتيل اند سبا البحرين",
+    "description": "Luxury hotel wedding venue in Manama listed on Zafaf.net. Indoor capacity shown as 500+; outdoor capacity up to ~500. Contact for pricing.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 600,
+    "minCapacity": 50,
+    "pricePerPerson": 28,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:29.983",
+    "updatedAt": "2026-02-13 22:47:29.983",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "per_person",
+    "subVenues": [
+      {
+        "venueName": "Al Noor Ballroom",
+        "venueType": "Ballroom",
+        "indoorOutdoor": "Indoor",
+        "capacity": { "banquet": 600, "maxGuests": 600 }
+      },
+      {
+        "venueName": "Al Ghazal Ballroom",
+        "venueType": "Ballroom",
+        "indoorOutdoor": "Indoor",
+        "capacity": { "banquet": 550, "maxGuests": 550 }
+      },
+      {
+        "venueName": "Grand Foyer",
+        "venueType": "Foyer",
+        "indoorOutdoor": "Indoor",
+        "capacity": { "banquet": 500, "maxGuests": 500 }
+      },
+      {
+        "venueName": "Rotonda",
+        "venueType": "Room",
+        "indoorOutdoor": "Indoor",
+        "capacity": { "banquet": 60, "maxGuests": 60 }
+      },
+      {
+        "venueName": "Private Island",
+        "venueType": "Beach/Island",
+        "indoorOutdoor": "Outdoor",
+        "capacity": { "banquet": 300, "maxGuests": 300 }
+      }
+    ],
+    "contacts": { "phone": null, "whatsapp": null, "email": null },
+    "parking": { "available": null, "capacity": null, "valet": null },
+    "accessibility": { "wheelchairAccessible": null, "elevators": null },
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllha1090024mt400880ikxu",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fohlala-magazine.com%2Fwp-content%2Fuploads%2F2022%2F11%2FAl-Noor.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllha1090025mt40fcpvvc7k",
+        "url": "https://cache.marriott.com/is/image/marriotts7prod/rcbahra_00181_conversion1",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllha1090026mt40qp95dwpa",
+        "url": "https://cache.marriott.com/is/image/marriotts7prod/rcbahra-rcbahra_00062_conversion:Classic-Hor?fit=constrain&wid=1200",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllha1090027mt40q5ba082d",
+        "url": "https://i.zafaf.net/providers/475/preview_eN2DW6YnRqsXWLWhTtE7hR.jpg",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "id": "cmllha1090028mt40br0ey299",
+        "url": "https://i.zafaf.net/providers/475/thumb_eN2DW6YnRqsXWLWhTtE7hR.jpg",
+        "isPrimary": false,
+        "sortOrder": 4
+      },
+      {
+        "id": "cmllha1090029mt40ggs53jjm",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fcache.marriott.com%2Fis%2Fimage%2Fmarriotts7prod%2Frcbahra_00181_conversion1&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 5
+      },
+      {
+        "id": "cmllha109002amt40ad578sv8",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fcache.marriott.com%2Fis%2Fimage%2Fmarriotts7prod%2Frcbahra-rcbahra_00062_conversion%3AClassic-Hor%3Ffit%3Dconstrain%26wid%3D1200&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 6
+      },
+      {
+        "id": "cmllha109002bmt40bej1lov7",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F475%2Fpreview_eN2DW6YnRqsXWLWhTtE7hR.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 7
+      },
+      {
+        "id": "cmllha109002cmt40sbemkkrb",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F475%2Fthumb_eN2DW6YnRqsXWLWhTtE7hR.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 8
+      }
+    ]
+  },
+  {
+    "id": "cmllha26p002gmt40bjabvxof",
+    "name": "The Diplomat Radisson Blu Hotel Residence Spa",
+    "nameAr": "فندق ومنتجع بلو راديسون ديبلومات",
+    "description": "Hotel wedding venue in Manama listed on Zafaf.net. Large indoor/outdoor capacity (500+). Contact the venue for package and pricing details.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 900,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:31.729",
+    "updatedAt": "2026-02-13 22:47:31.729",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "custom_quote",
+    "subVenues": [
+      {
+        "venueName": "Grand Ambassador Ballroom",
+        "venueType": "Ballroom",
+        "indoorOutdoor": "Indoor",
+        "areaSqm": 1236,
+        "capacity": { "banquet": 900, "maxGuests": 900 }
+      },
+      {
+        "venueName": "Al Fanar Hall",
+        "venueType": "Hall",
+        "indoorOutdoor": "Indoor",
+        "areaSqm": 470,
+        "capacity": { "banquet": 200, "maxGuests": 200 }
+      }
+    ],
+    "contacts": { "phone": null, "whatsapp": null, "email": null },
+    "parking": { "available": null, "capacity": null, "valet": null },
+    "accessibility": { "wheelchairAccessible": null, "elevators": null },
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllha26p002hmt40jxny3gth",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fohlala-magazine.com%2Fwp-content%2Fuploads%2F2022%2F11%2FJungle-wedding.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllha26p002imt40vqs5vi7u",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fthe-diplomat-radisson-blu-hotel-and-spa.manamabest-hotels.com%2Fdata%2FPhotos%2FOriginalPhoto%2F16767%2F1676735%2F1676735396.JPEG&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllha26p002jmt407vm1y5n0",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fthe-diplomat-radisson-blu-hotel-and-spa.manamabest-hotels.com%2Fdata%2FPhotos%2FOriginalPhoto%2F16767%2F1676735%2F1676735464.JPEG&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllha26p002kmt40uelbgiic",
+        "url": "https://the-diplomat-radisson-blu-hotel-and-spa.manamabest-hotels.com/data/Photos/OriginalPhoto/16767/1676735/1676735396.JPEG",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "id": "cmllha370002mmt406bnp6z8s",
+    "name": "Sofitel Bahrain Zallaq Thalassa Sea Spa",
+    "nameAr": "سوفيتيل البحرين الزلاق ثالاسا سي وسبا",
+    "description": "Luxury 5-star hotel wedding venue in Zallaq, listed on Zafaf.net. Large ballroom capacity (up to 1000 guests) and outdoor options. Contact for pricing.",
+    "descriptionAr": "قاعة أفراح في الزلاق",
+    "address": "Zallaq",
+    "addressAr": "الزلاق",
+    "city": "Zallaq",
+    "cityAr": "الزلاق",
+    "latitude": null,
+    "longitude": null,
+    "capacity": 600,
+    "minCapacity": 250,
+    "pricePerPerson": 17,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:33.036",
+    "updatedAt": "2026-02-13 22:47:33.036",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "per_person",
+    "subVenues": [
+      {
+        "venueName": "Wedding Venues (Indoor/Outdoor)",
+        "venueType": "Resort Venues",
+        "indoorOutdoor": "Both",
+        "capacity": { "minGuests": 250, "maxGuests": 600 }
+      }
+    ],
+    "contacts": { "phone": null, "whatsapp": null, "email": null },
+    "parking": { "available": null, "capacity": null, "valet": null },
+    "accessibility": { "wheelchairAccessible": null, "elevators": null },
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllha370002nmt40pzngmemh",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fohlala-magazine.com%2Fwp-content%2Fuploads%2F2022%2F11%2F7L6A6844.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllha370002omt4053yla9ko",
+        "url": "https://lifenstyle.bh/wp-content/uploads/2023/08/SOFITEL-BAHRAIN3-3-scaled.jpg",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllha370002pmt40u0tyvwb9",
+        "url": "https://images.meetingsbooker.com/images/venues/sofitelbahrainzallaqthalassaseaspa-1.jpg",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllha370002qmt40hrhw8ce2",
+        "url": "https://imagesawe.s3.amazonaws.com/styles/max980/s3/listing/2019/01/24/sofitel_bahrain_zallaq_thalassa_sea_spa.jpg?itok=KWVkN6ZJ",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "id": "cmllha370002rmt40imdaj6oy",
+        "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/8d/f1/ef/al-nakheel-ballroom.jpg?w=1200&h=-1&s=1",
+        "isPrimary": false,
+        "sortOrder": 4
+      },
+      {
+        "id": "cmllha370002smt40laqykvrs",
+        "url": "https://www.weddingsutra.com/images/wedding-images/real_wed/featured/ankita-kunal/ankita-kunal-img15.JPG",
+        "isPrimary": false,
+        "sortOrder": 5
+      },
+      {
+        "id": "cmllha370002tmt4038vcjv3n",
+        "url": "https://m.ahstatic.com/is/image/accorhotels/aja_p_3319-36%3A16by9?dpr=on%2C1.5&fmt=jpg&hei=619&icc=sRGB&iccEmbed=true&op_usm=1.75%2C0.3%2C2%2C0&qlt=80&resMode=sharp2&wid=1100",
+        "isPrimary": false,
+        "sortOrder": 6
+      },
+      {
+        "id": "cmllha370002umt40uqd99vlw",
+        "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/bc/40/a2/sofitel-bahrain-zallaq.jpg?w=1200&h=-1&s=1",
+        "isPrimary": false,
+        "sortOrder": 7
+      },
+      {
+        "id": "cmllha370002vmt40hl0baiww",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Flifenstyle.bh%2Fwp-content%2Fuploads%2F2023%2F08%2FSOFITEL-BAHRAIN3-3-scaled.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 8
+      },
+      {
+        "id": "cmllha370002wmt40eppej3j2",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimages.meetingsbooker.com%2Fimages%2Fvenues%2Fsofitelbahrainzallaqthalassaseaspa-1.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 9
+      }
+    ]
+  },
+  {
+    "id": "cmllha4q60034mt40ck437cjg",
+    "name": "Best Western Plus The Olive",
+    "nameAr": "بيست ويسترن بلس اوليف",
+    "description": "Hotel wedding venue in Manama listed on Zafaf.net. Indoor capacity: up to 500 guests. Contact the venue for package and pricing details.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 500,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:35.022",
+    "updatedAt": "2026-02-13 22:47:35.022",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllha4q60035mt40uxjajunm",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F2444%2Fpreview_2.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllha4q60036mt40duy1ru41",
+        "url": "https://i.zafaf.net/providers/2444/preview_2.jpg",
+        "isPrimary": false,
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": "cmllha5ql0038mt40fvo4nsex",
+    "name": "Elite Resort Spa",
+    "nameAr": "منتجع وسبا ايليت",
+    "description": "Hotel wedding venue in Manama listed on Zafaf.net. Outdoor capacity shown 500+ guests. Contact the venue for full hall capacity and pricing details.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 500,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:36.333",
+    "updatedAt": "2026-02-13 22:47:36.333",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllha5ql0039mt40m2h6qgsj",
+        "url": "https://images.trvl-media.com/lodging/2000000/1770000/1764500/1764401/a804ab7e.jpg?impolicy=resizecrop&ra=fit&rw=1200",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllha5ql003amt40n1rfojju",
+        "url": "https://images.trvl-media.com/lodging/2000000/1770000/1764500/1764401/895e3b13.jpg?impolicy=resizecrop&ra=fit&rw=1200",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllha5ql003bmt404cevbdxv",
+        "url": "https://i.zafaf.net/providers/510/preview_QV47aTWuH3iy4ezJYkLC6J.jpg",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllha5ql003cmt400l8ygvl5",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F510%2Fpreview_QV47aTWuH3iy4ezJYkLC6J.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "id": "cmllha5ql003dmt40xc4vwqly",
+        "url": "https://i.zafaf.net/providers/510/thumb_QV47aTWuH3iy4ezJYkLC6J.jpg",
+        "isPrimary": false,
+        "sortOrder": 4
+      },
+      {
+        "id": "cmllha5ql003emt40rnb88wwu",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F510%2Fthumb_QV47aTWuH3iy4ezJYkLC6J.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 5
+      }
+    ]
+  },
+  {
+    "id": "cmllha6r0003gmt40feku5a6a",
+    "name": "Ramada Hotel And Suites Amwaj Islands",
+    "nameAr": "فندق وأجنحة رمادا جزر أمواج",
+    "description": "Hotel wedding venue listed on Zafaf.net. Indoor/outdoor capacity: 50-100 guests. Pricing note shown: BD 8++ per person.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 100,
+    "minCapacity": 50,
+    "pricePerPerson": 8,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:37.644",
+    "updatedAt": "2026-02-13 22:47:37.644",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllha6r0003hmt40clxtzdvh",
+        "url": "https://imagesawe.s3.amazonaws.com/styles/max980/s3/companies/images/2020/01/amwaj_hall.jpg",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllha6r0003imt40o2cfv18t",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimagesawe.s3.amazonaws.com%2Fstyles%2Fmax980%2Fs3%2Fcompanies%2Fimages%2F2020%2F01%2Famwaj_hall.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": "cmllha7r8003kmt40txh9zrz5",
+    "name": "Mercure Grand Seef",
+    "nameAr": "ميركيور جراند السيف",
+    "description": "Hotel wedding venue in Manama listed on Zafaf.net. Indoor capacity: 50-100 guests. Average cost shown: 10 BHD per person.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 100,
+    "minCapacity": 50,
+    "pricePerPerson": 10,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:38.949",
+    "updatedAt": "2026-02-13 22:47:38.949",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllha7r9003lmt408nqebslt",
+        "url": "https://mercure-grand-seef.manamabest-hotels.com/data/Photos/OriginalPhoto/12779/1277977/1277977825.JPEG",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllha7r9003mmt408h7f6xth",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fmercure-grand-seef.manamabest-hotels.com%2Fdata%2FPhotos%2FOriginalPhoto%2F12779%2F1277977%2F1277977825.JPEG&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": "cmllha8rj003omt40yr2qya7f",
+    "name": "Ramada Hotel Bahrain",
+    "nameAr": "رامادا هوتيل",
+    "description": "Hotel wedding venue in Manama listed on Zafaf.net. Indoor capacity: under 50 guests. Contact the venue for package and pricing details.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 50,
+    "minCapacity": 0,
+    "pricePerPerson": 0,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:40.256",
+    "updatedAt": "2026-02-13 22:47:40.256",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllha8rj003pmt40yx0eudjh",
+        "url": "https://www.arabiaweddings.com/sites/default/files/companies/images/2016/11/ramada_bahrain_hotel.jpg",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllha8rj003qmt40x55tt1tp",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.arabiaweddings.com%2Fsites%2Fdefault%2Ffiles%2Fcompanies%2Fimages%2F2016%2F11%2Framada_bahrain_hotel.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": "cmllha9rv003smt4077hh7q76",
+    "name": "Ramada Manama City Centre",
+    "nameAr": "رمادا المنامة سيتي سنتر",
+    "description": "Hotel wedding venue in Manama listed on Zafaf.net. Indoor capacity shown up to 500 guests; minimum booking noted as 50 guests.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 500,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:41.563",
+    "updatedAt": "2026-02-13 22:47:41.563",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllha9rv003tmt406loodv5o",
+        "url": "https://www.arabiaweddings.com/sites/default/files/styles/max980/public/companies/images/2016/11/ramada_manama_city_centre_hotel.jpg",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllha9rv003umt40t2kd7cvw",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.arabiaweddings.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmax980%2Fpublic%2Fcompanies%2Fimages%2F2016%2F11%2Framada_manama_city_centre_hotel.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": "cmllhaas5003wmt40b7ctjq0w",
+    "name": "Orange Suites Hotel",
+    "nameAr": "فندق اورانح سويتس",
+    "description": "Hotel wedding venue in Manama listed on Zafaf.net. Indoor capacity: 50-100 guests. Average cost shown: 12 BHD per person.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 100,
+    "minCapacity": 50,
+    "pricePerPerson": 12,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:42.87",
+    "updatedAt": "2026-02-13 22:47:42.87",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhaas5003xmt40w1b6ijoy",
+        "url": "https://pix10.agoda.net/hotelImages/128/1280174/1280174_16092012470046655311.jpg",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhaas5003ymt40hnkz6vnc",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fpix10.agoda.net%2FhotelImages%2F128%2F1280174%2F1280174_16092012470046655311.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": "cmllhabsf0040mt40efo8sxwn",
+    "name": "Elite Crystal Royal",
+    "nameAr": "ايليت كريستال رويال",
+    "description": "Hotel wedding venue in Juffair, listed on Zafaf.net. Approximate capacity 100-200 guests. Contact for pricing.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 200,
+    "minCapacity": 100,
+    "pricePerPerson": 0,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:44.176",
+    "updatedAt": "2026-02-13 22:47:44.176",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhabsf0041mt40pfsr1djr",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F2552%2Fpreview_XYcbztTZNn0ae5cOApREbTbYo.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhabsf0042mt40gbxxtpmv",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F2552%2Fthumb_XYcbztTZNn0ae5cOApREbTbYo.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllhabsf0043mt4053uonc3l",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F2552%2Fthumb_DguaJVeeADbdtkytrlQCVfiNj.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllhabsf0044mt40gapnxra8",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F2552%2Fthumb_DDHU776h5Jmp5V2IhqBaloaZu.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "id": "cmllhabsf0045mt408xkfzuvm",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F2552%2Fthumb_O5fx7b6zW5vyOmlYfqqGSLpkF.png&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 4
+      },
+      {
+        "id": "cmllhabsf0046mt40wt4b1bmb",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F2552%2Fthumb_qmsAZ9J1CrmHI1EYuvewajJbj.jpeg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 5
+      },
+      {
+        "id": "cmllhabsf0047mt40wbm7m4u2",
+        "url": "https://i.zafaf.net/providers/2552/preview_XYcbztTZNn0ae5cOApREbTbYo.jpg",
+        "isPrimary": false,
+        "sortOrder": 6
+      },
+      {
+        "id": "cmllhabsf0048mt40cpen2za4",
+        "url": "https://i.zafaf.net/providers/2552/thumb_XYcbztTZNn0ae5cOApREbTbYo.jpg",
+        "isPrimary": false,
+        "sortOrder": 7
+      },
+      {
+        "id": "cmllhabsf0049mt40dui0l8lf",
+        "url": "https://i.zafaf.net/providers/2552/thumb_DguaJVeeADbdtkytrlQCVfiNj.jpg",
+        "isPrimary": false,
+        "sortOrder": 8
+      },
+      {
+        "id": "cmllhabsf004amt40dqjv1e8v",
+        "url": "https://i.zafaf.net/providers/2552/thumb_DDHU776h5Jmp5V2IhqBaloaZu.jpg",
+        "isPrimary": false,
+        "sortOrder": 9
+      },
+      {
+        "id": "cmllhabsf004bmt40mao0bnor",
+        "url": "https://i.zafaf.net/providers/2552/thumb_O5fx7b6zW5vyOmlYfqqGSLpkF.png",
+        "isPrimary": false,
+        "sortOrder": 10
+      },
+      {
+        "id": "cmllhabsf004cmt40jatqk0zr",
+        "url": "https://i.zafaf.net/providers/2552/thumb_qmsAZ9J1CrmHI1EYuvewajJbj.jpeg",
+        "isPrimary": false,
+        "sortOrder": 11
+      }
+    ]
+  },
+  {
+    "id": "cmllhacyw004emt40gwd4b4u2",
+    "name": "Four Seasons Hotel Bahrain Bay",
+    "nameAr": "فندق فورسيزونز خليج البحرين",
+    "description": "Luxury 5-star hotel on a private island. Venue options include the Al Bahrain Ballroom and outdoor terrace. Package price approx BHD 40 net.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 800,
+    "minCapacity": 50,
+    "pricePerPerson": 40,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:45.488",
+    "updatedAt": "2026-02-13 22:47:45.488",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "custom_quote",
+    "subVenues": [
+      {
+        "venueName": "Al Bahrain Ballroom",
+        "venueType": "Ballroom",
+        "indoorOutdoor": "Indoor",
+        "areaSqm": 900,
+        "capacity": { "banquet": 500, "maxGuests": 500 }
+      },
+      {
+        "venueName": "Al Manama Ballroom",
+        "venueType": "Ballroom",
+        "indoorOutdoor": "Indoor",
+        "capacity": { "banquet": 300, "maxGuests": 300 }
+      },
+      {
+        "venueName": "Outdoor Terrace",
+        "venueType": "Terrace",
+        "indoorOutdoor": "Outdoor",
+        "capacity": { "banquet": 180, "maxGuests": 180 }
+      },
+      {
+        "venueName": "Lush Lawn",
+        "venueType": "Garden/Lawn",
+        "indoorOutdoor": "Outdoor"
+      },
+      {
+        "venueName": "Beach Lounge",
+        "venueType": "Beach",
+        "indoorOutdoor": "Outdoor"
+      }
+    ],
+    "contacts": { "phone": null, "whatsapp": null, "email": null },
+    "parking": { "available": null, "capacity": null, "valet": null },
+    "accessibility": { "wheelchairAccessible": null, "elevators": null },
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhacyw004fmt404z8u0lii",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fohlala-magazine.com%2Fwp-content%2Fuploads%2F2022%2F11%2FBeach-Lounge-1.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhacyw004gmt40kfoc087h",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimages.travelandleisureasia.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2022%2F11%2F07182856%2FFeatured-Inside-43.jpeg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllhacyx004hmt40x77raei3",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fthevendry.com%2Fcdn-cgi%2Fimage%2Fheight%3D1920%2Cwidth%3D1920%2Cfit%3Dcontain%2Cmetadata%3Dnone%2Fhttps%3A%2F%2Fs3.us-east-1.amazonaws.com%2Fuploads.thevendry.co%2F24984%2F1696857298320_BAH_194_original.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllhacyx004imt4088pwtwkx",
+        "url": "https://images.travelandleisureasia.com/wp-content/uploads/sites/2/2022/11/07182856/Featured-Inside-43.jpeg",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "id": "cmllhaehj004qmt4076kpanik",
+    "name": "Sheraton Bahrain Hotel",
+    "nameAr": "فندق شيراتون البحرين",
+    "description": "Iconic 5-star hotel in Manama. Note: Currently undergoing renovations. Historical pricing around 17 BHD per person.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 700,
+    "minCapacity": 50,
+    "pricePerPerson": 17,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:47.671",
+    "updatedAt": "2026-02-13 22:47:47.671",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhaehj004rmt400nfptw4u",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fvenuewise.com%2Fupload%2Fvenue%2Fgallery%2Fthumbnails%2F2025%2F04%2F14%2Fsi_bahsi_al_taj_grand_ballroo37792_24423_classic_hor_67fce33e73d05.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhaehj004smt403c6ibujt",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fs3.bareeq.com.bh%2Fmedia-public%2F2023-12%2FProjects_1160x744_0004s_0004_Sheraton06.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": "cmllhafht004umt4077hfe4jt",
+    "name": "InterContinental Bahrain",
+    "nameAr": "فندق إنتركونتيننتال البحرين",
+    "description": "Elegant wedding venues including Al Rifaa Ballroom. Packages start from 14 BHD++ per person.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 650,
+    "minCapacity": 50,
+    "pricePerPerson": 14,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:48.978",
+    "updatedAt": "2026-02-13 22:47:48.978",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "custom_quote",
+    "subVenues": [
+      {
+        "venueName": "Al Rifaa Ballroom",
+        "venueType": "Ballroom",
+        "indoorOutdoor": "Indoor",
+        "capacity": { "banquet": 300, "maxGuests": 300 }
+      },
+      {
+        "venueName": "Al Thurayya Ballroom",
+        "venueType": "Ballroom",
+        "indoorOutdoor": "Indoor",
+        "capacity": { "banquet": 300, "maxGuests": 300 }
+      },
+      {
+        "venueName": "Ambassador Ballroom",
+        "venueType": "Ballroom",
+        "indoorOutdoor": "Indoor",
+        "capacity": { "banquet": 300, "maxGuests": 300 }
+      },
+      {
+        "venueName": "Regency Tent",
+        "venueType": "Tent",
+        "indoorOutdoor": "Indoor",
+        "capacity": { "banquet": 300, "maxGuests": 300 }
+      }
+    ],
+    "contacts": { "phone": null, "whatsapp": null, "email": null },
+    "parking": { "available": null, "capacity": null, "valet": null },
+    "accessibility": { "wheelchairAccessible": null, "elevators": null },
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhafht004vmt40onomtfhb",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fohlala-magazine.com%2Fwp-content%2Fuploads%2F2022%2F11%2FBallroom-maram.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhafht004wmt40cydpsdca",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimagesawe.s3.amazonaws.com%2Fstyles%2Fmax980%2Fs3%2Flisting%2F2019%2F02%2F19%2Fintercontinental_regency_bahrain.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllhafht004xmt40811gnpba",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fohlala-magazine.com%2Fwp-content%2Fuploads%2F2022%2F11%2FBallroom-maram-900x600.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllhafht004ymt40xelvp8a3",
+        "url": "https://imagesawe.s3.amazonaws.com/styles/max980/s3/listing/2019/02/19/intercontinental_regency_bahrain.jpg?itok=QZVNRjpt",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "id": "cmllhagi50050mt40m8f099hp",
+    "name": "The Westin City Centre Bahrain",
+    "nameAr": "فندق ذا ويستن سيتي سنتر البحرين",
+    "description": "Connected to City Centre Bahrain. Offers distinct venues. Pricing estimated comparable to Le Meridien (~18 BHD).",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 1000,
+    "minCapacity": 50,
+    "pricePerPerson": 18,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:50.285",
+    "updatedAt": "2026-02-13 22:47:50.285",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhagi50051mt40kbi1we68",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fbahrainweddings.com%2Fwp-content%2Fuploads%2F2022%2F08%2FThe-Westin-City-Centre-Bahrain-10.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhagi50052mt40su2gf2sy",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fbahrainweddings.com%2Fwp-content%2Fuploads%2F2022%2F08%2FThe-Westin-City-Centre-Bahrain-7.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": "cmllhahig0054mt40fnlxmm0y",
+    "name": "Hilton Bahrain",
+    "nameAr": "هيلتون البحرين",
+    "description": "Modern hotel in Juffair with ballroom facilities. Contact for specific wedding package rates.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 500,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:51.592",
+    "updatedAt": "2026-02-13 22:47:51.592",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhahig0055mt40ljq06zd6",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2F1400%2Feab255167796885.642ee9842f3e7.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhahig0056mt40cs3jup73",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F51%2Fcc%2Faa%2F51ccaa074e9e3458a9b8d64297622731.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": "cmllhaiir0058mt40lg3ouw45",
+    "name": "Wyndham Grand Manama",
+    "nameAr": "ويندهام جراند المنامة",
+    "description": "Iconic spiraling tower in Bahrain Bay. Wedding packages start from approx 15 BHD++.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 600,
+    "minCapacity": 50,
+    "pricePerPerson": 15,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:52.899",
+    "updatedAt": "2026-02-13 22:47:52.899",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhaiir0059mt407lm3tskn",
+        "url": "https://i.zafaf.net/providers/46723/thumb_gjvawqocagpalzlymtdqkhzxx.jpg",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhaiir005amt409r1dinew",
+        "url": "https://i.zafaf.net/providers/46723/thumb_ulyxnfigkijbzkrgizwltvpqf.jpg",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllhaiir005bmt40n5nr5bdv",
+        "url": "https://i.zafaf.net/providers/46723/thumb_gyxgvdklivsigqzetbnadmwmu.jpg",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllhaiir005cmt40dztkd8lg",
+        "url": "https://i.zafaf.net/providers/46723/thumb_gjcewwluuspxcbgytofkokdpx.jpg",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "id": "cmllhaiir005dmt405gw44lah",
+        "url": "https://i.zafaf.net/providers/46723/thumb_brpwdnpnzxqruarcbhgjtozrp.jpg",
+        "isPrimary": false,
+        "sortOrder": 4
+      },
+      {
+        "id": "cmllhaiir005emt40rdeduo3n",
+        "url": "https://i.zafaf.net/providers/46723/thumb_xqtzpttlrajepemddipufgivl.jpg",
+        "isPrimary": false,
+        "sortOrder": 5
+      }
+    ]
+  },
+  {
+    "id": "cmllhajjd005gmt40yzvcfv9i",
+    "name": "Conrad Bahrain Financial Harbour",
+    "nameAr": "كونراد البحرين فنانشل هاربور",
+    "description": "Luxury hotel with panoramic views. Contact venue for wedding package pricing.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 300,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:54.217",
+    "updatedAt": "2026-02-13 22:47:54.217",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhajjd005hmt4024urm6h1",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fcontent.r9cdn.net%2Fhimg%2F93%2F03%2F90%2Fice-1070813807-118737198-789857.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhajjd005imt400egagy10",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fcontent.r9cdn.net%2Fhimg%2F3c%2Fa3%2F33%2Fice-1070813807-118863661-911465.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": "cmllhakjo005kmt40uvh4rvo4",
+    "name": "Raffles Al Areen Palace Bahrain",
+    "nameAr": "رافلز العرين بالاس البحرين",
+    "description": "Ultra-luxury all-villa palace resort in Zallaq. Exclusive wedding venues. Contact for pricing.",
+    "descriptionAr": "قاعة أفراح في الزلاق",
+    "address": "Zallaq",
+    "addressAr": "الزلاق",
+    "city": "Zallaq",
+    "cityAr": "الزلاق",
+    "latitude": null,
+    "longitude": null,
+    "capacity": 300,
+    "minCapacity": 50,
+    "pricePerPerson": 16,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:55.525",
+    "updatedAt": "2026-02-13 22:47:55.525",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "per_person",
+    "subVenues": [
+      {
+        "venueName": "Nadwah Hall",
+        "venueType": "Ballroom/Hall",
+        "indoorOutdoor": "Indoor"
+      },
+      {
+        "venueName": "Convention Centre",
+        "venueType": "Convention Centre",
+        "indoorOutdoor": "Indoor"
+      },
+      {
+        "venueName": "Momento Restaurant",
+        "venueType": "Restaurant",
+        "indoorOutdoor": "Both"
+      },
+      {
+        "venueName": "Resort Garden Area",
+        "venueType": "Garden",
+        "indoorOutdoor": "Outdoor"
+      }
+    ],
+    "contacts": { "phone": null, "whatsapp": null, "email": null },
+    "parking": { "available": null, "capacity": null, "valet": null },
+    "accessibility": { "wheelchairAccessible": null, "elevators": null },
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhakjo005lmt40mxa0zjwi",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fohlala-magazine.com%2Fwp-content%2Fuploads%2F2022%2F11%2Fconvention.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhakjo005mmt40av16t5x5",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.harpersbazaararabia.com%2Fcloud%2F2024%2F01%2F12%2FBallroom-1568x882.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllhakjp005nmt403iv90j2v",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.harpersbazaararabia.com%2Fcloud%2F2024%2F01%2F12%2Fk9pUtbek-Ballroom-1200x900.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllhakjp005omt40avrek953",
+        "url": "https://www.harpersbazaararabia.com/cloud/2024/01/12/Ballroom-1568x882.jpg",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "id": "cmllham2a005wmt40cfrd1y2c",
+    "name": "Address Beach Resort Bahrain",
+    "nameAr": "منتجع أدرس بيتش البحرين",
+    "description": "Beachfront luxury resort in Diyar Al Muharraq. Wedding packages start from 45 BHD per person.",
+    "descriptionAr": "قاعة أفراح في Diyar Al Muharraq",
+    "address": "Diyar Al Muharraq",
+    "addressAr": "Diyar Al Muharraq",
+    "city": "Diyar Al Muharraq",
+    "cityAr": "Diyar Al Muharraq",
+    "latitude": null,
+    "longitude": null,
+    "capacity": 300,
+    "minCapacity": 50,
+    "pricePerPerson": 45,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:57.491",
+    "updatedAt": "2026-02-13 22:47:57.491",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllham2a005xmt40ef265bpq",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.arabiaweddings.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmax980%2Fpublic%2Fcompanies%2Fimages%2F2023%2F06%2Faddress_photo_1.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "id": "cmllhamwk005zmt40wgkqaenb",
+    "name": "Royal Saray Resort",
+    "nameAr": "منتجع رويال سراي",
+    "description": "Luxury resort in Seef district with private beach. Large ballroom available. Contact for pricing.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 800,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:58.58",
+    "updatedAt": "2026-02-13 22:47:58.58",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhamwk0060mt400v6my539",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Froyalsaray.s3.eu-central-2.wasabisys.com%2Fstorage%2Fwedding-homepage.png&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhamwk0061mt40bs3cn1f5",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Froyalsaray.s3.eu-central-2.wasabisys.com%2Fstorage%2Fmisc%2Frooms%2Fwedding%2Fwed4a.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": "cmllhanx30063mt40xamhsrz0",
+    "name": "Onyx Rotana",
+    "nameAr": "أونيكس روتانا",
+    "description": "Luxury residence hotel in Bahrain Bay. Packages start from 19 BHD++ per person.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 400,
+    "minCapacity": 50,
+    "pricePerPerson": 19,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:47:59.895",
+    "updatedAt": "2026-02-13 22:47:59.895",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhanx30064mt40to64584k",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.arabiaweddings.com%2Fsites%2Fdefault%2Ffiles%2Fcompanies%2Fimages%2F2016%2F11%2Frotana_wedding_hall.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhanx30065mt409x7xubta",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.arabiaweddings.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmax750%2Fpublic%2Flisting%2F2020%2F03%2F19%2Frotana.png&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": "cmllhap3j0067mt409nwglzdw",
+    "name": "Vida Beach Resort Marassi Al Bahrain",
+    "nameAr": "فيدا بيتش ريزورت مراسي البحرين",
+    "description": "Chic beachfront resort. Platinum wedding package rate approx 34 BHD per person.",
+    "descriptionAr": "قاعة أفراح في Diyar Al Muharraq",
+    "address": "Diyar Al Muharraq",
+    "addressAr": "Diyar Al Muharraq",
+    "city": "Diyar Al Muharraq",
+    "cityAr": "Diyar Al Muharraq",
+    "latitude": null,
+    "longitude": null,
+    "capacity": 250,
+    "minCapacity": 50,
+    "pricePerPerson": 24,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:01.202",
+    "updatedAt": "2026-02-13 22:48:01.202",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "per_person",
+    "subVenues": [
+      {
+        "venueName": "Coast Hall",
+        "venueType": "Meeting Space",
+        "indoorOutdoor": "Indoor"
+      },
+      {
+        "venueName": "Origins Restaurant & Terrace",
+        "venueType": "Restaurant",
+        "indoorOutdoor": "Both"
+      },
+      {
+        "venueName": "Beach",
+        "venueType": "Beach",
+        "indoorOutdoor": "Outdoor"
+      }
+    ],
+    "contacts": { "phone": null, "whatsapp": null, "email": null },
+    "parking": { "available": null, "capacity": null, "valet": null },
+    "accessibility": { "wheelchairAccessible": null, "elevators": null },
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhap3j0068mt404auxtzl5",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fohlala-magazine.com%2Fwp-content%2Fuploads%2F2022%2F11%2FCoast-Hall.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhap3j0069mt401zfn5dv0",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimagesawe.s3.amazonaws.com%2Fstyles%2Fmax980%2Fs3%2Fuploads%2Fimages%2F2023%2F06%2F05%2Fvida_photo.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllhap3j006amt40ggrmr6x6",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimagesawe.s3.amazonaws.com%2Fstyles%2Fmax980%2Fs3%2Fuploads%2Fimages%2F2023%2F06%2F05%2Fvida_photo_1_1.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllhap3j006bmt40xwucu5gg",
+        "url": "https://imagesawe.s3.amazonaws.com/styles/max980/s3/uploads/images/2023/06/05/vida_photo.jpg?itok=ffxl7GAP",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "id": "cmllhaqm5006jmt40e96i5gzi",
+    "name": "Al Jaw Resort & Spa",
+    "nameAr": "منتجع الجاو وسبا",
+    "description": "Resort in Jaww area. Contact for wedding package details.",
+    "descriptionAr": "قاعة أفراح في Jaww",
+    "address": "Jaww",
+    "addressAr": "Jaww",
+    "city": "Jaww",
+    "cityAr": "Jaww",
+    "latitude": null,
+    "longitude": null,
+    "capacity": 300,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:03.389",
+    "updatedAt": "2026-02-13 22:48:03.389",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhaqm5006kmt404m6ihppv",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.arabiaweddings.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmax980%2Fpublic%2Fcompanies%2Fimages%2F2022%2F12%2Fscreen_shot_2022-12-17_at_5.08.21_pm.png&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhaqm5006lmt40fzjr538q",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fcf.bstatic.com%2Fxdata%2Fimages%2Fhotel%2Fmax300%2F525122989.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": "cmllharmg006nmt40zvwtg8t3",
+    "name": "Grand Swiss-Belhotel Waterfront Seef",
+    "nameAr": "جراند سويس-بلهوتيل ووترفرونت السيف",
+    "description": "Waterfront hotel in Seef. Wedding packages start from 13 BHD per person.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 400,
+    "minCapacity": 50,
+    "pricePerPerson": 13,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:04.696",
+    "updatedAt": "2026-02-13 22:48:04.696",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllharmg006omt40diwxydta",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fweddings.swiss-belhotel.com%2Fwp-content%2Fuploads%2F2024%2F08%2Fgbse2.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllharmg006pmt40bp7ni72n",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fvenuewise.com%2Fupload%2Fvenue%2Fgallery%2Fthumbnails%2F2025%2F04%2F13%2F664977780_67fbdb03857ba.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": "cmllhasms006rmt4038hsehjn",
+    "name": "Lagoona Beach Luxury Resort & Spa",
+    "nameAr": "لاغونا بيتش لاكشري ريزورت آند سبا",
+    "description": "Luxury resort in Budaiya. Packages start from 24 BHD per person.",
+    "descriptionAr": "قاعة أفراح في البديع",
+    "address": "Budaiya",
+    "addressAr": "البديع",
+    "city": "Budaiya",
+    "cityAr": "البديع",
+    "latitude": null,
+    "longitude": null,
+    "capacity": 250,
+    "minCapacity": 50,
+    "pricePerPerson": 24,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:06.004",
+    "updatedAt": "2026-02-13 22:48:06.004",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhasms006smt40p4csb22p",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Flagoonabeachresort.com%2Fwp-content%2Fuploads%2F2024%2F04%2FANAN5859-1-1.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhasms006tmt40fgpeigxa",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fbahrainweddings.com%2Fwp-content%2Fuploads%2F2022%2F08%2FLagoona-Beach-Luxury-Resort-Spa-7.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": "cmllhatn3006vmt40hwd3lcib",
+    "name": "Gulf Hotel Bahrain Convention & Spa",
+    "nameAr": "فندق الخليج البحرين",
+    "description": "Iconic 5-star hotel in Manama. Features the Al Dana Ballroom (up to 900 guests) and Awal Ballroom. Wedding packages from 16 BHD net/person (Sat-Wed), 18 BHD net/person (Thu-Fri).",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 900,
+    "minCapacity": 50,
+    "pricePerPerson": 18,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:07.312",
+    "updatedAt": "2026-02-13 22:48:07.312",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "per_person",
+    "subVenues": [
+      {
+        "venueName": "Al Dana Ballroom",
+        "venueType": "Ballroom",
+        "indoorOutdoor": "Indoor",
+        "capacity": { "minGuests": 150, "maxGuests": 800 }
+      },
+      {
+        "venueName": "Awal Ballroom",
+        "venueType": "Ballroom",
+        "indoorOutdoor": "Indoor",
+        "capacity": { "minGuests": 100, "maxGuests": 300 }
+      },
+      {
+        "venueName": "GCC Terrace",
+        "venueType": "Garden/Terrace",
+        "indoorOutdoor": "Outdoor",
+        "capacity": { "minGuests": 100, "maxGuests": 300 }
+      }
+    ],
+    "contacts": { "phone": null, "whatsapp": null, "email": null },
+    "parking": { "available": null, "capacity": null, "valet": null },
+    "accessibility": { "wheelchairAccessible": null, "elevators": null },
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhatn3006wmt40hemqtf7z",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fohlala-magazine.com%2Fwp-content%2Fuploads%2F2022%2F11%2FDSC05377.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhatn3006xmt401ul5mkpk",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fgulfhotelbahrain.com%2Fsites%2Fdefault%2Ffiles%2FCopy-of-DSC05512.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllhatn3006ymt40dqkv91f7",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fgulfhotelbahrain.com%2Fsites%2Fdefault%2Ffiles%2FCopy-of-DSC05389.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllhatn3006zmt40vzzh3p1w",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fgulfhotelbahrain.com%2Fsites%2Fdefault%2Ffiles%2F600x439_awal_0.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "id": "cmllhatn30070mt40sazwdlhh",
+        "url": "https://gulfhotelbahrain.com/sites/default/files/Copy-of-DSC05512.jpg",
+        "isPrimary": false,
+        "sortOrder": 4
+      }
+    ]
+  },
+  {
+    "id": "cmllhavc2007amt400z3imkmt",
+    "name": "Dragon Beach Hotel",
+    "nameAr": "فندق شاطئ دراجون",
+    "description": "If you’re looking for a venue that stands out, the Dragon is the ideal destination for meetings and events. Combining excellent facilities with a prime location and a range of leisure activities, our hotel’s beach setting provides the perfect backdrop for product launches, team-building events, conferences, meetings, and staff outings. With amenities such as complimentary venue-wide Wi-Fi and convenient parking, we ensure your guests enjoy both comfort and convenience throughout their stay.",
+    "descriptionAr": "قاعة أفراح في جزر أمواج",
+    "address": "Amwaj Islands",
+    "addressAr": "جزر أمواج",
+    "city": "Amwaj Islands",
+    "cityAr": "جزر أمواج",
+    "latitude": null,
+    "longitude": null,
+    "capacity": 100,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:09.506",
+    "updatedAt": "2026-02-13 22:48:09.506",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhavc2007bmt40tyl04fur",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fs3.eu-central-2.wasabisys.com%2Fdragonwp2025%2Fwp-media-folder-the-dragon-beach-hotel-amwaj-islands-bahrain-suites-villas-chalets-kingdom-of-bahrain%2Fwp-content%2Fuploads%2F2026%2F01%2FWedding-Event-7.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhavc2007cmt40wzvhc84h",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fs3.eu-central-2.wasabisys.com%2Fdragonwp2025%2Fwp-media-folder-the-dragon-beach-hotel-amwaj-islands-bahrain-suites-villas-chalets-kingdom-of-bahrain%2Fwp-content%2Fuploads%2F2026%2F01%2FWedding-Event-4.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllhavc2007dmt40bmobniev",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAHVAwepAOpQIBv3_S4usLNs0QLrQNwYJ9paPXHLT8qe4ZBuRAclcrKFopTYg1ERNn7cEih1TCjadeIhda1Op1yPN_q8C26qzns1wkxx7sK_yG0e0Rjz8mwpvjyuRUomEj0mnDtveIeBDAA%3Ds1360-w1360-h1020&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllhavc2007emt403qw00bf0",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Flh3.googleusercontent.com%2Fproxy%2FTyDfKzC8uiI9gZOD66ezSrJAVB5jGEAkIgYEZmpxh-FMJ4RR2YqAs2ZR9EwOkdgM9Itts6JDnSxA676RDjJCu9CRsJGQhFReo7rxo-BmHT_iBFs2mNyfYHc5s9uyG6RRFqMwo_dbv1yOk93qUxqDXgx9d1fcWFk%3Dw160-h106-k-no&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "id": "cmllhavc2007fmt40pdeptlhz",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fs3.eu-central-2.wasabisys.com%2Fdragonwp2025%2Fwp-media-folder-the-dragon-beach-hotel-amwaj-islands-bahrain-suites-villas-chalets-kingdom-of-bahrain%2Fwp-content%2Fuploads%2F2026%2F01%2FPrivate-Event-1.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 4
+      },
+      {
+        "id": "cmllhavc2007gmt40fse2nejx",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fs3.eu-central-2.wasabisys.com%2Fdragonwp2025%2Fwp-media-folder-the-dragon-beach-hotel-amwaj-islands-bahrain-suites-villas-chalets-kingdom-of-bahrain%2Fwp-content%2Fuploads%2F2026%2F01%2FWedding-Event-6.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 5
+      },
+      {
+        "id": "cmllhavc2007hmt40c6pof5qk",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fs3.eu-central-2.wasabisys.com%2Fdragonwp2025%2Fwp-media-folder-the-dragon-beach-hotel-amwaj-islands-bahrain-suites-villas-chalets-kingdom-of-bahrain%2Fwp-content%2Fuploads%2F2026%2F01%2FWedding-Event-8.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 6
+      }
+    ]
+  },
+  {
+    "id": "cmllhawci007jmt40up0ldl4j",
+    "name": "Solymar Hotel (Amwaj Islands)",
+    "nameAr": "فندق سوليمار",
+    "description": "The property’s grand ballroom accommodates up to 1,000 guests, making it ideal for conferences, weddings, and events. It is supported by five additional fully equipped meeting rooms for added guest comfort.",
+    "descriptionAr": "قاعة أفراح في جزر أمواج",
+    "address": "Amwaj Islands",
+    "addressAr": "جزر أمواج",
+    "city": "Amwaj Islands",
+    "cityAr": "جزر أمواج",
+    "latitude": null,
+    "longitude": null,
+    "capacity": 1000,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:10.818",
+    "updatedAt": "2026-02-13 22:48:10.818",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HOTEL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhawci007kmt40ahvd58p2",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimages.trvl-media.com%2Flodging%2F20000000%2F19300000%2F19290500%2F19290417%2Fa1d31c61.jpg%3Fimpolicy%3Dresizecrop%26rw%3D1200%26ra%3Dfit&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhawci007lmt40nx9ixb8d",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimages.trvl-media.com%2Flodging%2F20000000%2F19300000%2F19290500%2F19290417%2F03ea11ba.jpg%3Fimpolicy%3Dresizecrop%26rw%3D1200%26ra%3Dfit&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllhawci007mmt40oolh5zru",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimages.trvl-media.com%2Flodging%2F20000000%2F19300000%2F19290500%2F19290417%2Fe9150f09.jpg%3Fimpolicy%3Dresizecrop%26rw%3D1200%26ra%3Dfit&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllhawci007nmt40h681i7tn",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimages.trvl-media.com%2Flodging%2F20000000%2F19300000%2F19290500%2F19290417%2Faa5279a7.jpg%3Fimpolicy%3Dresizecrop%26rw%3D1200%26ra%3Dfit&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "id": "cmllhawci007omt40ae5j6f2x",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimages.trvl-media.com%2Flodging%2F20000000%2F19300000%2F19290500%2F19290417%2F8f2a0aef.jpg%3Fimpolicy%3Dresizecrop%26rw%3D1200%26ra%3Dfit&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 4
+      },
+      {
+        "id": "cmllhawci007pmt401j9qr1en",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimages.trvl-media.com%2Flodging%2F20000000%2F19300000%2F19290500%2F19290417%2Ff2b369eb.jpg%3Fimpolicy%3Dresizecrop%26rw%3D1200%26ra%3Dfit&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 5
+      },
+      {
+        "id": "cmllhawci007qmt403lhbwogp",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimages.trvl-media.com%2Flodging%2F20000000%2F19300000%2F19290500%2F19290417%2F52137c30.jpg%3Fimpolicy%3Dresizecrop%26rw%3D1200%26ra%3Dfit&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 6
+      },
+      {
+        "id": "cmllhawci007rmt40be6zoyy2",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimages.trvl-media.com%2Flodging%2F20000000%2F19300000%2F19290500%2F19290417%2Fa9ce0961.jpg%3Fimpolicy%3Dresizecrop%26rw%3D1200%26ra%3Dfit&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 7
+      },
+      {
+        "id": "cmllhawci007smt4028ty3w4x",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimages.trvl-media.com%2Flodging%2F20000000%2F19300000%2F19290500%2F19290417%2F365e587d.jpg%3Fimpolicy%3Dresizecrop%26rw%3D1200%26ra%3Dfit&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 8
+      },
+      {
+        "id": "cmllhawci007tmt40q5d6cvit",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimages.trvl-media.com%2Flodging%2F20000000%2F19300000%2F19290500%2F19290417%2F9a6cd9e2.jpg%3Fimpolicy%3Dresizecrop%26rw%3D1200%26ra%3Dfit&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 9
+      },
+      {
+        "id": "cmllhawci007umt40izayqi8q",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimages.trvl-media.com%2Flodging%2F20000000%2F19300000%2F19290500%2F19290417%2F0d06ea0c.jpg%3Fimpolicy%3Dresizecrop%26rw%3D1200%26ra%3Dfit&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 10
+      }
+    ]
+  },
+  {
+    "id": "cmllhaxcv007wmt40k2tdi1w2",
+    "name": "Al Zahraa Wedding Hall",
+    "nameAr": "صالة الزهراء",
+    "description": "Independent wedding hall in Manama listed on Zafaf.net. Large indoor/outdoor capacity (500++). Contact the hall for pricing and package details.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 500,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:12.127",
+    "updatedAt": "2026-02-13 22:48:12.127",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HALL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhaxcv007xmt4072a1c85e",
+        "url": "https://i.zafaf.net/providers/18158/preview_xvgbmukyatfnnnatlrwxvuggf.jpg",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhaxcv007ymt40ukgtxw7c",
+        "url": "https://i.zafaf.net/providers/18158/thumb_xvgbmukyatfnnnatlrwxvuggf.jpg",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllhaxcv007zmt40dzwamisl",
+        "url": "https://i.zafaf.net/providers/18158/thumb_ctizuipyzfvpeicmeueurxxxz.jpg",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllhaxcv0080mt40sq17vhh5",
+        "url": "https://i.zafaf.net/providers/18158/thumb_bhlhethyzbywgepnohfkflemp.jpg",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "id": "cmllhaxcv0081mt40mfd6ryyr",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F18158%2Fpreview_xvgbmukyatfnnnatlrwxvuggf.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 4
+      },
+      {
+        "id": "cmllhaxcv0082mt407o5cgnlx",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F18158%2Fthumb_xvgbmukyatfnnnatlrwxvuggf.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 5
+      },
+      {
+        "id": "cmllhaxcv0083mt40pz3qfq5b",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F18158%2Fthumb_ctizuipyzfvpeicmeueurxxxz.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 6
+      },
+      {
+        "id": "cmllhaxcv0084mt40jhwbzp44",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F18158%2Fthumb_bhlhethyzbywgepnohfkflemp.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 7
+      }
+    ]
+  },
+  {
+    "id": "cmllhayd60086mt408w8o72yl",
+    "name": "Dana Wedding Hall",
+    "nameAr": "صالة الدانة",
+    "description": "Independent wedding hall in Manama listed on Zafaf.net. Large capacity (500++). Minimum cost shown: 20 BHD per person.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 500,
+    "minCapacity": 50,
+    "pricePerPerson": 20,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:13.434",
+    "updatedAt": "2026-02-13 22:48:13.434",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HALL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhayd60087mt40gyqs8y8u",
+        "url": "https://i.zafaf.net/providers/1056/preview_hpthdbbjwwgqlijdhyhfdckfj.jpg",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhayd60088mt40bsvcuvg3",
+        "url": "https://i.zafaf.net/providers/1056/thumb_hpthdbbjwwgqlijdhyhfdckfj.jpg",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllhayd60089mt40b27y74ko",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F1056%2Fpreview_hpthdbbjwwgqlijdhyhfdckfj.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllhayd6008amt40ocsx7ntj",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F1056%2Fthumb_hpthdbbjwwgqlijdhyhfdckfj.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "id": "cmllhazdj008cmt40dc8yf9aw",
+    "name": "Prestige Hall Al Ahli Club",
+    "nameAr": "صالة برستيج النادي الأهلي",
+    "description": "Independent wedding hall in Manama listed on Zafaf.net. Capacity shown: 100-200 (men and women sections). Contact the hall to confirm full package pricing.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 200,
+    "minCapacity": 50,
+    "pricePerPerson": 20,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:14.743",
+    "updatedAt": "2026-02-13 22:48:14.743",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HALL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhazdj008dmt40xm3ddgrx",
+        "url": "https://i.zafaf.net/providers/1066/preview_ewuojgotmxmxotcsqjwuzpdhe.jpg",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhazdj008emt40lef4rx9f",
+        "url": "https://i.zafaf.net/providers/1066/thumb_ewuojgotmxmxotcsqjwuzpdhe.jpg",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllhazdj008fmt40hjyyyi6d",
+        "url": "https://i.zafaf.net/providers/1066/thumb_wskmwfvpnnzivbxtwvnyedwaz.jpg",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllhazdj008gmt4029qabktq",
+        "url": "https://i.zafaf.net/providers/1066/thumb_LP0GRivgjZtJKhbGClLwoB0ng.jpg",
+        "isPrimary": false,
+        "sortOrder": 3
+      },
+      {
+        "id": "cmllhazdj008hmt401kax6dcj",
+        "url": "https://i.zafaf.net/providers/1066/thumb_KzI6ZrmsdAwADtcENKfHTZUnU.jpg",
+        "isPrimary": false,
+        "sortOrder": 4
+      },
+      {
+        "id": "cmllhazdj008imt40cbh5516x",
+        "url": "https://i.zafaf.net/providers/1066/thumb_FZx7Y3DGjdWaMIqHzjdKq1dnw.jpg",
+        "isPrimary": false,
+        "sortOrder": 5
+      },
+      {
+        "id": "cmllhazdj008jmt407on21hye",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F1066%2Fpreview_ewuojgotmxmxotcsqjwuzpdhe.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 6
+      },
+      {
+        "id": "cmllhazdj008kmt40fl9j8fiu",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F1066%2Fthumb_ewuojgotmxmxotcsqjwuzpdhe.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 7
+      },
+      {
+        "id": "cmllhazdj008lmt40w3yxt2wo",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F1066%2Fthumb_wskmwfvpnnzivbxtwvnyedwaz.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 8
+      },
+      {
+        "id": "cmllhazdj008mmt4005b5awuw",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F1066%2Fthumb_LP0GRivgjZtJKhbGClLwoB0ng.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 9
+      },
+      {
+        "id": "cmllhazdj008nmt406m7bcj4x",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F1066%2Fthumb_KzI6ZrmsdAwADtcENKfHTZUnU.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 10
+      },
+      {
+        "id": "cmllhazdj008omt40kob2oqm1",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F1066%2Fthumb_FZx7Y3DGjdWaMIqHzjdKq1dnw.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 11
+      }
+    ]
+  },
+  {
+    "id": "cmllhb0dx008qmt40y1xsi8pl",
+    "name": "Al Layali Hall",
+    "nameAr": "قاعة الليالي",
+    "description": "Independent wedding hall in Manama listed on Zafaf.net. Capacity: 300-500 guests. Pricing notes include hall starting at 2000 BHD and minimum 20 BHD per person.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 500,
+    "minCapacity": 50,
+    "pricePerPerson": 20,
+    "basePrice": 2000,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:16.053",
+    "updatedAt": "2026-02-13 22:48:16.053",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HALL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhb0dx008rmt4017acgn6u",
+        "url": "https://i.zafaf.net/providers/1022/preview_geopaeqhddnewhoolwzstneey.jpg",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhb0dx008smt40mt7w50q0",
+        "url": "https://i.zafaf.net/providers/1022/thumb_geopaeqhddnewhoolwzstneey.jpg",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllhb0dx008tmt40a70d4yxw",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F1022%2Fpreview_geopaeqhddnewhoolwzstneey.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllhb0dx008umt402egk1wk7",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F1022%2Fthumb_geopaeqhddnewhoolwzstneey.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "id": "cmllhb1k8008wmt40pquzurkd",
+    "name": "The Heaven",
+    "nameAr": "ذا هافن",
+    "description": "Independent wedding hall in Manama listed on Zafaf.net. Total capacity shown 500++; indoor 200-300; outdoor 500++. Pricing notes include hall from 1500 BHD and 10 BHD per person.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 300,
+    "minCapacity": 50,
+    "pricePerPerson": 10,
+    "basePrice": 1500,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:17.359",
+    "updatedAt": "2026-02-13 22:48:17.359",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HALL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhb1k8008xmt40eycnqrk7",
+        "url": "https://i.zafaf.net/providers/47946/preview_hgvdqcfdohnmmvbdzyrcdsvkw.jpg",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhb1k8008ymt40lldxvell",
+        "url": "https://i.zafaf.net/providers/47946/thumb_hgvdqcfdohnmmvbdzyrcdsvkw.jpg",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllhb1k8008zmt40axrdgkef",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F47946%2Fpreview_hgvdqcfdohnmmvbdzyrcdsvkw.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllhb1k80090mt40rwqlksvo",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F47946%2Fthumb_hgvdqcfdohnmmvbdzyrcdsvkw.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "id": "cmllhb2km0092mt40ng7o87wf",
+    "name": "Dunya Almesbah For Weddings",
+    "nameAr": "قاعة دنيا المسباح للمناسبات",
+    "description": "Independent wedding hall in Manama listed on Zafaf.net. Capacity shown around 300-500 guests. Contact the hall for package and pricing details.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 500,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:18.887",
+    "updatedAt": "2026-02-13 22:48:18.887",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HALL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhb2km0093mt40ear00u3h",
+        "url": "https://imagesawe.s3.amazonaws.com/styles/max980/s3/albums/2025/04/26/indian_wedding_in_bahrain_18.jpg?itok=3-SIgN8I",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhb2km0094mt4013iucx2m",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimagesawe.s3.amazonaws.com%2Fstyles%2Fmax980%2Fs3%2Falbums%2F2025%2F04%2F26%2Findian_wedding_in_bahrain_18.jpg%3Fitok%3D3-SIgN8I&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": "cmllhb3ky0096mt40a5ch5yxv",
+    "name": "Al Anwar Hall",
+    "nameAr": "صاله الانوار",
+    "description": "Independent wedding hall in Manama listed on Zafaf.net. Capacity shown: 200-300 guests. A price of 200 BHD is shown on the listing; contact to confirm the exact pricing model.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 300,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 200,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:20.194",
+    "updatedAt": "2026-02-13 22:48:20.194",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HALL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhb3ky0097mt40kzj3qvu7",
+        "url": "https://i.zafaf.net/providers/1037/preview_remwlkcqctvjylubrsnizvfth.jpg",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhb3ky0098mt40vhjgfa3l",
+        "url": "https://i.zafaf.net/providers/1037/thumb_remwlkcqctvjylubrsnizvfth.jpg",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllhb3ky0099mt401o3c63wm",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F1037%2Fpreview_remwlkcqctvjylubrsnizvfth.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllhb3ky009amt400pm5zgeh",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F1037%2Fthumb_remwlkcqctvjylubrsnizvfth.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "id": "cmllhb4l9009cmt40y6qng4xu",
+    "name": "Narimat Hall",
+    "nameAr": "صالة ناريمات",
+    "description": "Independent wedding hall in Manama listed on Zafaf.net. Capacity shown: 200-300 guests. A price of 250 BHD is shown on the listing; contact to confirm package details.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 300,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 250,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:21.502",
+    "updatedAt": "2026-02-13 22:48:21.502",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HALL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhb4l9009dmt40fmbvp0kn",
+        "url": "https://i.zafaf.net/providers/1017/preview_EA8WyOi3Q6Z4TIv9N1PU1gTN4.jpg",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhb4l9009emt40ixfl0uqy",
+        "url": "https://i.zafaf.net/providers/1017/thumb_EA8WyOi3Q6Z4TIv9N1PU1gTN4.jpg",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllhb4l9009fmt40me5ge37i",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F1017%2Fpreview_EA8WyOi3Q6Z4TIv9N1PU1gTN4.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllhb4l9009gmt40krffvzhz",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F1017%2Fthumb_EA8WyOi3Q6Z4TIv9N1PU1gTN4.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "id": "cmllhb5lk009imt40xac27rsc",
+    "name": "Barakah Hall",
+    "nameAr": "صالة البركة",
+    "description": "Independent wedding hall in Manama listed on Zafaf.net. Capacity shown: 300-500 guests. A price of 200 BHD is shown on the listing; contact to confirm package details.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 500,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 200,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:22.808",
+    "updatedAt": "2026-02-13 22:48:22.808",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HALL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhb5lk009jmt40col3u9vn",
+        "url": "https://i.zafaf.net/providers/18169/preview_rquziwcjtrnbdackrqcdpntfw.jpg",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhb5lk009kmt40utkwhttt",
+        "url": "https://i.zafaf.net/providers/18169/thumb_rquziwcjtrnbdackrqcdpntfw.jpg",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllhb5lk009lmt402pi5xach",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F18169%2Fpreview_rquziwcjtrnbdackrqcdpntfw.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllhb5lk009mmt40m5ls4q0s",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F18169%2Fthumb_rquziwcjtrnbdackrqcdpntfw.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "id": "cmllhb6ft009omt408105t4w0",
+    "name": "Kaser Almurgan Hall",
+    "nameAr": "صالة قصر المرجان",
+    "description": "Independent wedding hall in Manama listed on Zafaf.net. Capacity shown around 300-500 guests. Contact the hall for pricing and package details.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 500,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:23.898",
+    "updatedAt": "2026-02-13 22:48:23.898",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HALL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhb6fu009pmt40wvhbmqc4",
+        "url": "https://i.zafaf.net/providers/1053/preview_xhzxxtgdtwvyrkawppwnfkxkf.jpg",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhb6fu009qmt40kt69t95h",
+        "url": "https://i.zafaf.net/providers/1053/thumb_xhzxxtgdtwvyrkawppwnfkxkf.jpg",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllhb6fu009rmt40e9nf7yiz",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F1053%2Fpreview_xhzxxtgdtwvyrkawppwnfkxkf.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 2
+      },
+      {
+        "id": "cmllhb6fu009smt40ktuumxm4",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fi.zafaf.net%2Fproviders%2F1053%2Fthumb_xhzxxtgdtwvyrkawppwnfkxkf.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 3
+      }
+    ]
+  },
+  {
+    "id": "cmllhb7g6009umt40c6vwcdyw",
+    "name": "Nayyara Al Bahrain",
+    "nameAr": "قاعة نيارة البحرين",
+    "description": "Luxurious independent wedding hall located in Amwaj Islands (The Lagoon Park). One of the most grand wedding halls in Bahrain with capacity for 350-400 guests. Hall rental starts from 1050 BHD.",
+    "descriptionAr": "قاعة أفراح في جزر أمواج",
+    "address": "Amwaj Islands",
+    "addressAr": "جزر أمواج",
+    "city": "Amwaj Islands",
+    "cityAr": "جزر أمواج",
+    "latitude": null,
+    "longitude": null,
+    "capacity": 400,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 1050,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:25.206",
+    "updatedAt": "2026-02-13 22:48:25.206",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HALL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhb7g6009vmt405d68dyo4",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimagesawe.s3.amazonaws.com%2Fstyles%2Fmax980%2Fs3%2Flisting%2F2019%2F01%2F31%2Fnayyara_banqueting_conference_center_1.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhb7g6009wmt40io89pkvu",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.arabiaweddings.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmax980%2Fpublic%2Flisting%2F2019%2F12%2F23%2Fnayyara_banqueting_conference_center.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllhb7g6009xmt406xra5l9z",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.venuewise.com%2Fupload%2Fvenue%2Fgallery%2Fthumbnails%2F2025%2F06%2F24%2Fimage_2112506_685a67c06cbcc.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "id": "cmllhb8gt009zmt40v9sa2pny",
+    "name": "Exhibition World Bahrain",
+    "nameAr": "مركز البحرين العالمي للمعارض",
+    "description": "Award-winning world-class convention centre. The Grand Hall seats up to 4,000 guests. Versatile spaces for lavish weddings and private functions with customizable setups, fine dining, and dedicated event planning.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 4000,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:26.526",
+    "updatedAt": "2026-02-13 22:48:26.526",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HALL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhb8gt00a0mt40iz4s8hyw",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Flifenstyle.bh%2Fwp-content%2Fuploads%2F2023%2F11%2FEWB-1-2-1920x1280.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhb8gt00a1mt409hffskgs",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fimagesawe.s3.amazonaws.com%2Fstyles%2Fmax980%2Fs3%2Fcompanies%2Fimages%2F2024%2F03%2Ffotc2195.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      },
+      {
+        "id": "cmllhb8gt00a2mt40pk8vyydk",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.arabiaweddings.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmax980%2Fpublic%2Fdeals%2F2024%2F03%2Fimg_0117.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 2
+      }
+    ]
+  },
+  {
+    "id": "cmllhb9h400a4mt40wy6y9vz4",
+    "name": "Al Durra Wedding Hall",
+    "nameAr": "قاعة الدرة للأفراح",
+    "description": "Independent wedding hall in Manama. Accommodates up to 400 guests with special bride suite. Known for elegant decoration and professional event management.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 400,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:27.833",
+    "updatedAt": "2026-02-13 22:48:27.833",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HALL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhb9h400a5mt40cxzvwnfg",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fvenuewise.com%2Fupload%2Fvenue%2Fgallery%2F2025%2F10%2F04%2F307102315_486073266725334_2093197251297804074_n_68e0e23e5719f.jpeg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      },
+      {
+        "id": "cmllhb9h400a6mt40puwk2lhk",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.arabiaweddings.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmax980%2Fpublic%2Fcompanies%2Fimages%2F2016%2F04%2Fdurra2.jpg&w=1200&fit=cover",
+        "isPrimary": false,
+        "sortOrder": 1
+      }
+    ]
+  },
+  {
+    "id": "cmllhbahg00a8mt40wsihj5eh",
+    "name": "New Seasons Wedding Hall",
+    "nameAr": "قاعة نيو سيزونز",
+    "description": "One of Bahrain's most exquisite independent wedding halls in Tubli. Suitable for a variety of events and ceremonies. Video & photography services available.",
+    "descriptionAr": "قاعة أفراح في توبلي",
+    "address": "Tubli",
+    "addressAr": "توبلي",
+    "city": "Tubli",
+    "cityAr": "توبلي",
+    "latitude": null,
+    "longitude": null,
+    "capacity": 500,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:29.141",
+    "updatedAt": "2026-02-13 22:48:29.141",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HALL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhbahg00a9mt40jzs80huy",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fvenuewise.com%2Fupload%2Fvenue%2Fgallery%2F2025%2F10%2F04%2F75553979_2491490177734169_5168089965758366661_n_1_68e118fe64838.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "id": "cmllhbbbq00abmt40awdhkxrl",
+    "name": "Alkawthar Hall",
+    "nameAr": "قاعة الكوثر",
+    "description": "Party hall in Sitra with all facilities to host weddings, birthday parties, corporate functions and all kinds of events. Multiple branches available.",
+    "descriptionAr": "قاعة أفراح في سترة",
+    "address": "Sitra",
+    "addressAr": "سترة",
+    "city": "Sitra",
+    "cityAr": "سترة",
+    "latitude": 26.12,
+    "longitude": 50.65,
+    "capacity": 400,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:30.231",
+    "updatedAt": "2026-02-13 22:48:30.231",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HALL",
+    "pricingModel": "quote",
+    "subVenues": null,
+    "contacts": null,
+    "parking": null,
+    "accessibility": null,
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhbbbq00acmt407hy6pj2n",
+        "url": "https://images.weserv.nl/?url=https%3A%2F%2Fvenuewise.com%2Fupload%2Fvenue%2Fgallery%2F2025%2F10%2F18%2F123_1_68f388e69a537.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      }
+    ]
+  },
+  {
+    "id": "cmllhbc6000aemt40c7b949bk",
+    "name": "The Orangery",
+    "nameAr": "ذا أورانجيري",
+    "description": "An elegant tea room and patisserie located in the grounds of The Palace Boutique Hotel. The tea room can be transformed for magical ceremonies. The Secret Garden outdoor area is a beautiful wedding venue with seamless service and menu customisation.",
+    "descriptionAr": "قاعة أفراح في المنامة",
+    "address": "Manama",
+    "addressAr": "المنامة",
+    "city": "Manama",
+    "cityAr": "المنامة",
+    "latitude": 26.225,
+    "longitude": 50.5775,
+    "capacity": 100,
+    "minCapacity": 50,
+    "pricePerPerson": 0,
+    "basePrice": 0,
+    "rating": 4.5,
+    "reviewCount": 0,
+    "amenities": ["Parking", "AC", "Lighting"],
+    "isActive": true,
+    "createdAt": "2026-02-13 22:48:31.32",
+    "updatedAt": "2026-02-13 22:48:31.32",
+    "vendorId": "cmlkqfshr00014rc7m7yvvsvl",
+    "type": "HALL",
+    "pricingModel": "custom_quote",
+    "subVenues": [
+      {
+        "venueName": "Tea Room",
+        "venueType": "Tea Room/Patisserie",
+        "indoorOutdoor": "Indoor"
+      },
+      {
+        "venueName": "Secret Garden",
+        "venueType": "Garden",
+        "indoorOutdoor": "Outdoor"
+      }
+    ],
+    "contacts": { "phone": null, "whatsapp": null, "email": null },
+    "parking": { "available": null, "capacity": null, "valet": null },
+    "accessibility": { "wheelchairAccessible": null, "elevators": null },
+    "isFeatured": false,
+    "luxuryRank": 999,
+    "images": [
+      {
+        "id": "cmllhbc6000afmt406a0mpipv",
+        "url": "https://images.weserv.nl/?url=ohlala-magazine.com/wp-content/uploads/2022/11/The-Secret-Garden-3.jpg&w=1200&fit=cover",
+        "isPrimary": true,
+        "sortOrder": 0
+      }
+    ]
+  }
+]

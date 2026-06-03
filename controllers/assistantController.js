@@ -14,28 +14,19 @@ function loadRAGContext() {
 
   try {
     const assetsDir = path.join(__dirname, '..', 'assets');
-    const venuesPath = path.join(assetsDir, 'venues.json');
-    const photosPath = path.join(assetsDir, 'venue_photos.json');
+    const venuesPath = path.join(assetsDir, 'venues_full_data.json');
     const bhPath = path.join(assetsDir, 'bh.json');
 
     const venues = fs.existsSync(venuesPath) ? JSON.parse(fs.readFileSync(venuesPath, 'utf8')) : [];
-    const photos = fs.existsSync(photosPath) ? JSON.parse(fs.readFileSync(photosPath, 'utf8')) : [];
     const bh = fs.existsSync(bhPath) ? JSON.parse(fs.readFileSync(bhPath, 'utf8')) : {};
-
-    // Group photos by venueId
-    const photosMap = {};
-    for (const photo of photos) {
-      if (!photosMap[photo.venueId]) photosMap[photo.venueId] = [];
-      photosMap[photo.venueId].push(photo);
-    }
 
     // Embed photos and cities inside the venues data for RAG context
     const venuesWithDetails = venues.map(v => {
-      const venuePhotos = (photosMap[v.id] || []).map(p => ({
+      const venuePhotos = (v.images || []).map(p => ({
         url: p.url,
-        caption: p.caption,
-        captionAr: p.captionAr,
-        isPrimary: p.isPrimary
+        caption: p.caption || null,
+        captionAr: p.captionAr || null,
+        isPrimary: p.isPrimary || false
       }));
       return {
         id: v.id,

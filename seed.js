@@ -33,21 +33,7 @@ function loadJSON(filename) {
 
 // ── Map venues + embed their photos ──────────────────────────────────────
 
-function buildVenueDocs(venues, photos) {
-  // Group photos by venueId for O(1) lookup
-  const photosByVenue = {};
-  for (const photo of photos) {
-    if (!photosByVenue[photo.venueId]) photosByVenue[photo.venueId] = [];
-    photosByVenue[photo.venueId].push({
-      id: photo.id,
-      url: photo.url,
-      caption: photo.caption || null,
-      captionAr: photo.captionAr || null,
-      isPrimary: photo.isPrimary || false,
-      sortOrder: photo.sortOrder || 0,
-    });
-  }
-
+function buildVenueDocs(venues) {
   return venues.map((v) => ({
     _id: v.id,
     name: v.name,
@@ -69,7 +55,14 @@ function buildVenueDocs(venues, photos) {
     amenities: v.amenities || [],
     type: v.type || 'HOTEL',
     pricingModel: v.pricingModel || null,
-    photos: (photosByVenue[v.id] || []).sort((a, b) => a.sortOrder - b.sortOrder),
+    photos: (v.images || []).map(img => ({
+      id: img.id,
+      url: img.url,
+      caption: img.caption || null,
+      captionAr: img.captionAr || null,
+      isPrimary: img.isPrimary || false,
+      sortOrder: img.sortOrder || 0,
+    })).sort((a, b) => a.sortOrder - b.sortOrder),
     subVenues: v.subVenues || [],
     contacts: v.contacts || null,
     parking: v.parking || null,
@@ -124,18 +117,17 @@ async function main() {
   }
 
   // ── Venues ─────────────────────────────────────────────────────────────
-  const venues = loadJSON('venues.json');
-  const photos = loadJSON('venue_photos.json');
+  const venues = loadJSON('venues_full_data.json');
 
-  if (!venues || !photos) {
-    console.error('❌  Could not load venue/photo assets.');
+  if (!venues) {
+    console.error('❌  Could not load venues_full_data.json asset.');
     await mongoose.disconnect();
     process.exit(1);
   }
 
-  console.log(`📦  Loaded ${venues.length} venues, ${photos.length} photos`);
+  console.log(`📦  Loaded ${venues.length} venues with embedded images`);
 
-  const venueDocs = buildVenueDocs(venues, photos);
+  const venueDocs = buildVenueDocs(venues);
 
   // Upsert so re-running the seeder is safe (no duplicate key errors)
   let inserted = 0;
