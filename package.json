@@ -2,6 +2,7 @@
   "name": "qa3at-api",
   "version": "1.0.0",
   "description": "Qa3at Backend API — Node.js / Express / MongoDB",
+  "type": "module",
   "main": "server.js",
   "engines": {
     "node": ">=18.x"
@@ -15,7 +16,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module",
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
     "bcryptjs": "^3.0.3",

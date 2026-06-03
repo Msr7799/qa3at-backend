@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+import mongoose from 'mongoose';
 
 // ── Booking Item (embedded) ────────────────────────────────────────────────
 
@@ -90,7 +90,5 @@ bookingSchema.set('toJSON', {
   },
 });
 
-const Booking = mongoose.model('Booking', bookingSchema);
-const TimeSlot = mongoose.model('TimeSlot', timeSlotSchema);
-
-module.exports = { Booking, TimeSlot };
+export const Booking = mongoose.model('Booking', bookingSchema);
+export const TimeSlot = mongoose.model('TimeSlot', timeSlotSchema);

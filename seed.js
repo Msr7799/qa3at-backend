@@ -6,13 +6,17 @@
  *   node seed.js --fresh   → drop existing venues first, then seed
  */
 
-require('dotenv').config();
-const mongoose = require('mongoose');
-const path = require('path');
-const fs = require('fs');
+import 'dotenv/config';
+import mongoose from 'mongoose';
+import path from 'path';
+import fs from 'fs';
+import { fileURLToPath } from 'url';
 
-const Venue = require('./models/Venue');
-const { TimeSlot } = require('./models/Booking');
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+import Venue from './models/Venue.js';
+import { Booking, TimeSlot } from './models/Booking.js';
 
 // ── Load assets ───────────────────────────────────────────────────────────
 

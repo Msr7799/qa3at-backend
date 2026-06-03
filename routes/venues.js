@@ -1,15 +1,15 @@
-const express = require('express');
+import express from 'express';
 const router = express.Router();
-const venueController = require('../controllers/venueController');
+import { getCities, getVenues, getVenueById } from '../controllers/venueController.js';
 
 // NOTE: /cities must come BEFORE /:id so Express doesn't treat "cities" as an id
 // GET /api/venues/cities
-router.get('/cities', venueController.getCities);
+router.get('/cities', getCities);
 
 // GET /api/venues
-router.get('/', venueController.getVenues);
+router.get('/', getVenues);
 
 // GET /api/venues/:id
-router.get('/:id', venueController.getVenueById);
+router.get('/:id', getVenueById);
 
-module.exports = router;
+export default router;

@@ -1,6 +1,6 @@
-const jwt = require('jsonwebtoken');
-const User = require('../models/User');
-const { catchAsync, AppError } = require('../middleware/errorHandler');
+import jwt from 'jsonwebtoken';
+import User from '../models/User.js';
+import { catchAsync, AppError } from '../middleware/errorHandler.js';
 
 // ── Helper: sign JWT ──────────────────────────────────────────────────────
 
@@ -34,7 +34,7 @@ const sendAuthResponse = (user, statusCode, res) => {
 
 // ── POST /api/auth/register ───────────────────────────────────────────────
 
-exports.register = catchAsync(async (req, res, next) => {
+export const register = catchAsync(async (req, res, next) => {
   const { email, password, name, phone } = req.body;
 
   if (!email || !password || !name) {
@@ -53,7 +53,7 @@ exports.register = catchAsync(async (req, res, next) => {
 
 // ── POST /api/auth/login ──────────────────────────────────────────────────
 
-exports.login = catchAsync(async (req, res, next) => {
+export const login = catchAsync(async (req, res, next) => {
   const { email, password } = req.body;
 
   if (!email || !password) {
@@ -76,7 +76,7 @@ exports.login = catchAsync(async (req, res, next) => {
 
 // ── POST /api/auth/google-login ──────────────────────────────────────────
 
-exports.googleLogin = catchAsync(async (req, res, next) => {
+export const googleLogin = catchAsync(async (req, res, next) => {
   const { email, name, phone } = req.body;
 
   if (!email || !name) {
@@ -109,7 +109,7 @@ exports.googleLogin = catchAsync(async (req, res, next) => {
 
 // ── GET /api/auth/profile (protected) ────────────────────────────────────
 
-exports.getProfile = catchAsync(async (req, res) => {
+export const getProfile = catchAsync(async (req, res) => {
   const user = req.user; // attached by protect middleware
 
   res.status(200).json({

@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+import mongoose from 'mongoose';
 
 // ── Package Item (embedded) ────────────────────────────────────────────────
 
@@ -87,7 +87,5 @@ addonSchema.set('toJSON', {
   },
 });
 
-const Package = mongoose.model('Package', packageSchema);
-const Addon = mongoose.model('Addon', addonSchema);
-
-module.exports = { Package, Addon };
+export const Package = mongoose.model('Package', packageSchema);
+export const Addon = mongoose.model('Addon', addonSchema);

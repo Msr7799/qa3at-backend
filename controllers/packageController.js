@@ -1,10 +1,10 @@
-const { Package, Addon } = require('../models/Package');
-const { TimeSlot } = require('../models/Booking');
-const { catchAsync } = require('../middleware/errorHandler');
+import { Package, Addon } from '../models/Package.js';
+import { TimeSlot } from '../models/Booking.js';
+import { catchAsync } from '../middleware/errorHandler.js';
 
 // ── GET /api/packages ─────────────────────────────────────────────────────
 
-exports.getPackages = catchAsync(async (req, res) => {
+export const getPackages = catchAsync(async (req, res) => {
   const { category, tier, venueId } = req.query;
 
   const filter = { isActive: true };
@@ -19,7 +19,7 @@ exports.getPackages = catchAsync(async (req, res) => {
 
 // ── GET /api/packages/addons ──────────────────────────────────────────────
 
-exports.getAddons = catchAsync(async (req, res) => {
+export const getAddons = catchAsync(async (req, res) => {
   const { category } = req.query;
 
   const filter = { isActive: true };
@@ -32,7 +32,7 @@ exports.getAddons = catchAsync(async (req, res) => {
 
 // ── GET /api/packages/time-slots ─────────────────────────────────────────
 
-exports.getTimeSlots = catchAsync(async (req, res) => {
+export const getTimeSlots = catchAsync(async (req, res) => {
   const slots = await TimeSlot.find({ isActive: true }).sort({ startTime: 1 }).lean();
 
   // Normalise _id → id

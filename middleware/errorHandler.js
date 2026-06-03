@@ -2,7 +2,7 @@
  * Central error handler — catches all errors thrown from controllers
  * and returns a consistent JSON shape.
  */
-const errorHandler = (err, req, res, next) => {
+export const errorHandler = (err, req, res, next) => {
   let statusCode = err.statusCode || 500;
   let message = err.message || 'Internal Server Error';
 
@@ -47,14 +47,14 @@ const errorHandler = (err, req, res, next) => {
  * Async wrapper — removes the need for try/catch in every controller
  * Usage: router.get('/', catchAsync(async (req, res) => { ... }))
  */
-const catchAsync = (fn) => (req, res, next) => {
+export const catchAsync = (fn) => (req, res, next) => {
   Promise.resolve(fn(req, res, next)).catch(next);
 };
 
 /**
  * Create an AppError with a custom status code
  */
-class AppError extends Error {
+export class AppError extends Error {
   constructor(message, statusCode) {
     super(message);
     this.statusCode = statusCode;
@@ -62,4 +62,4 @@ class AppError extends Error {
   }
 }
 
-module.exports = { errorHandler, catchAsync, AppError };
+

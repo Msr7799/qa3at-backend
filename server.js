@@ -1,19 +1,19 @@
-require('dotenv').config();
-const express = require('express');
-const cors    = require('cors');
+import 'dotenv/config';
+import express from 'express';
+import cors from 'cors';
 
 // ── Cached MongoDB connection (ضروري لـ Vercel Serverless) ────────────────
-const connectDB = require('./lib/connectDB');
+import connectDB from './lib/connectDB.js';
 
 // ── Route imports ─────────────────────────────────────────────────────────
-const authRoutes      = require('./routes/auth');
-const venueRoutes     = require('./routes/venues');
-const packageRoutes   = require('./routes/packages');
-const bookingRoutes   = require('./routes/bookings');
-const assistantRoutes = require('./routes/assistant');
+import authRoutes from './routes/auth.js';
+import venueRoutes from './routes/venues.js';
+import packageRoutes from './routes/packages.js';
+import bookingRoutes from './routes/bookings.js';
+import assistantRoutes from './routes/assistant.js';
 
 // ── Error handler ─────────────────────────────────────────────────────────
-const { errorHandler } = require('./middleware/errorHandler');
+import { errorHandler } from './middleware/errorHandler.js';
 
 const app = express();
 
@@ -43,7 +43,6 @@ app.use(async (req, res, next) => {
     res.status(503).json({ success: false, message: 'Database unavailable. Try again.' });
   }
 });
-
 
 // ── API Routes ────────────────────────────────────────────────────────────
 app.use('/api/auth',      authRoutes);
@@ -81,7 +80,7 @@ if (process.env.NODE_ENV !== 'production') {
     });
 
   process.on('SIGINT', async () => {
-    const mongoose = require('mongoose');
+    const mongoose = await import('mongoose');
     await mongoose.connection.close();
     console.log('MongoDB connection closed. Bye! 👋');
     process.exit(0);
@@ -89,4 +88,4 @@ if (process.env.NODE_ENV !== 'production') {
 }
 
 // ── تصدير app لـ Vercel Serverless (لا تحذف هذا السطر) ──────────────────
-module.exports = app;
+export default app;

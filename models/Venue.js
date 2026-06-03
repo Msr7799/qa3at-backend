@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+import mongoose from 'mongoose';
 
 // ── Embedded sub-schemas ───────────────────────────────────────────────────
 
@@ -107,4 +107,4 @@ venueSchema.set('toJSON', {
   },
 });
 
-module.exports = mongoose.model('Venue', venueSchema);
+export default mongoose.model('Venue', venueSchema);

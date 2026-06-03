@@ -1,10 +1,10 @@
-const Venue = require('../models/Venue');
-const { catchAsync, AppError } = require('../middleware/errorHandler');
+import Venue from '../models/Venue.js';
+import { catchAsync, AppError } from '../middleware/errorHandler.js';
 
 // ── GET /api/venues ───────────────────────────────────────────────────────
 // Query params: city, type, capacity, search, page, limit, featured
 
-exports.getVenues = catchAsync(async (req, res) => {
+export const getVenues = catchAsync(async (req, res) => {
   const {
     city,
     type,
@@ -60,7 +60,7 @@ exports.getVenues = catchAsync(async (req, res) => {
 
 // ── GET /api/venues/cities ────────────────────────────────────────────────
 
-exports.getCities = catchAsync(async (req, res) => {
+export const getCities = catchAsync(async (req, res) => {
   const cities = await Venue.aggregate([
     { $match: { isActive: true } },
     { $group: { _id: '$city', cityAr: { $first: '$cityAr' } } },
@@ -80,7 +80,7 @@ exports.getCities = catchAsync(async (req, res) => {
 
 // ── GET /api/venues/:id ───────────────────────────────────────────────────
 
-exports.getVenueById = catchAsync(async (req, res, next) => {
+export const getVenueById = catchAsync(async (req, res, next) => {
   const venue = await Venue.findById(req.params.id).lean();
 
   if (!venue) {

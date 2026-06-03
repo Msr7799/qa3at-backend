@@ -1,11 +1,11 @@
-const { Booking, TimeSlot } = require('../models/Booking');
-const Venue = require('../models/Venue');
-const { Package, Addon } = require('../models/Package');
-const { catchAsync, AppError } = require('../middleware/errorHandler');
+import { Booking, TimeSlot } from '../models/Booking.js';
+import Venue from '../models/Venue.js';
+import { Package, Addon } from '../models/Package.js';
+import { catchAsync, AppError } from '../middleware/errorHandler.js';
 
 // ── POST /api/bookings (Protected) ────────────────────────────────────────
 
-exports.createBooking = catchAsync(async (req, res, next) => {
+export const createBooking = catchAsync(async (req, res, next) => {
   const {
     venueId,
     slotId,
@@ -143,7 +143,7 @@ exports.createBooking = catchAsync(async (req, res, next) => {
 
 // ── GET /api/bookings (Protected) ─────────────────────────────────────────
 
-exports.getMyBookings = catchAsync(async (req, res) => {
+export const getMyBookings = catchAsync(async (req, res) => {
   const bookings = await Booking.find({ userId: req.user._id })
     .populate({
       path: 'venueId',
@@ -161,7 +161,7 @@ exports.getMyBookings = catchAsync(async (req, res) => {
 
 // ── PATCH /api/bookings/:id/cancel (Protected) ────────────────────────────
 
-exports.cancelBooking = catchAsync(async (req, res, next) => {
+export const cancelBooking = catchAsync(async (req, res, next) => {
   const booking = await Booking.findById(req.params.id);
 
   if (!booking) {

@@ -1,18 +1,18 @@
-const express = require('express');
+import express from 'express';
 const router = express.Router();
-const authController = require('../controllers/authController');
-const { protect } = require('../middleware/auth');
+import { register, login, googleLogin, getProfile } from '../controllers/authController.js';
+import { protect } from '../middleware/auth.js';
 
 // POST /api/auth/register
-router.post('/register', authController.register);
+router.post('/register', register);
 
 // POST /api/auth/login
-router.post('/login', authController.login);
+router.post('/login', login);
 
 // POST /api/auth/google-login
-router.post('/google-login', authController.googleLogin);
+router.post('/google-login', googleLogin);
 
 // GET  /api/auth/profile  (protected)
-router.get('/profile', protect, authController.getProfile);
+router.get('/profile', protect, getProfile);
 
-module.exports = router;
+export default router;

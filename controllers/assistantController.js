@@ -1,6 +1,10 @@
-const { GoogleGenerativeAI } = require('@google/generative-ai');
-const path = require('path');
-const fs = require('fs');
+import { GoogleGenerativeAI } from '@google/generative-ai';
+import path from 'path';
+import fs from 'fs';
+import { fileURLToPath } from 'url';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 // ── Load and cache RAG context (venues + photos + cities) ───────────────────
 let cachedContext = null;
@@ -69,7 +73,7 @@ function loadRAGContext() {
  *
  * Real Gemini-powered AI assistant with RAG using local venues, photos, and cities.
  */
-exports.chat = async (req, res, next) => {
+export const chat = async (req, res, next) => {
   try {
     const { message } = req.body;
 

@@ -1,14 +1,14 @@
-const express = require('express');
+import express from 'express';
 const router = express.Router();
-const packageController = require('../controllers/packageController');
+import { getAddons, getTimeSlots, getPackages } from '../controllers/packageController.js';
 
 // GET /api/packages/addons  — must be before /:id
-router.get('/addons', packageController.getAddons);
+router.get('/addons', getAddons);
 
 // GET /api/packages/time-slots
-router.get('/time-slots', packageController.getTimeSlots);
+router.get('/time-slots', getTimeSlots);
 
 // GET /api/packages
-router.get('/', packageController.getPackages);
+router.get('/', getPackages);
 
-module.exports = router;
+export default router;
