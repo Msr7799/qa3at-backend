@@ -1,7 +1,9 @@
 require('dotenv').config();
 const express = require('express');
-const mongoose = require('mongoose');
-const cors = require('cors');
+const cors    = require('cors');
+
+// ── Cached MongoDB connection (ضروري لـ Vercel Serverless) ────────────────
+const connectDB = require('./lib/connectDB');
 
 // ── Route imports ─────────────────────────────────────────────────────────
 const authRoutes      = require('./routes/auth');
@@ -19,6 +21,18 @@ const app = express();
 app.use(cors());
 app.use(express.json({ limit: '10mb' }));
 app.use(express.urlencoded({ extended: true }));
+
+// ── DB Middleware: اتصل بـ MongoDB قبل كل request ────────────────────────
+// هذا هو مفتاح عمل Vercel Serverless - كل invocation تتصل بـ DB عبر الـ cache
+app.use(async (req, res, next) => {
+  try {
+    await connectDB();
+    next();
+  } catch (err) {
+    console.error('❌  DB connection failed:', err.message);
+    res.status(503).json({ success: false, message: 'Database unavailable. Try again.' });
+  }
+});
 
 // ── Health check ──────────────────────────────────────────────────────────
 app.get('/health', (req, res) => {
@@ -48,34 +62,30 @@ app.use((req, res) => {
 // ── Global error handler (must be last) ──────────────────────────────────
 app.use(errorHandler);
 
-// ── MongoDB connection + server start ─────────────────────────────────────
-const PORT = process.env.PORT || 3000;
-const MONGO_URI = process.env.MONGODB_URI || process.env.MONGO_URI;
+// ── Local Development only: تشغيل السيرفر محلياً فقط ─────────────────────
+// في Vercel لا يعمل app.listen — Vercel يستدعي handler مباشرة عبر module.exports
+if (process.env.NODE_ENV !== 'production') {
+  const PORT = process.env.PORT || 3000;
 
-if (!MONGO_URI) {
-  console.error('❌  MONGODB_URI is not set in .env');
-  process.exit(1);
+  connectDB()
+    .then(() => {
+      app.listen(PORT, () => {
+        console.log(`🚀  Server listening on http://localhost:${PORT}`);
+        console.log(`📋  Health: http://localhost:${PORT}/health`);
+      });
+    })
+    .catch((err) => {
+      console.error('❌  Startup error:', err.message);
+      process.exit(1);
+    });
+
+  process.on('SIGINT', async () => {
+    const mongoose = require('mongoose');
+    await mongoose.connection.close();
+    console.log('MongoDB connection closed. Bye! 👋');
+    process.exit(0);
+  });
 }
 
-mongoose
-  .connect(MONGO_URI)
-  .then(() => {
-    console.log('✅  MongoDB connected');
-    app.listen(PORT, () => {
-      console.log(`🚀  Server listening on http://localhost:${PORT}`);
-      console.log(`📋  Health: http://localhost:${PORT}/health`);
-    });
-  })
-  .catch((err) => {
-    console.error('❌  MongoDB connection error:', err.message);
-    process.exit(1);
-  });
-
-// ── Graceful shutdown ─────────────────────────────────────────────────────
-process.on('SIGINT', async () => {
-  await mongoose.connection.close();
-  console.log('MongoDB connection closed. Bye! 👋');
-  process.exit(0);
-});
-
+// ── تصدير app لـ Vercel Serverless (لا تحذف هذا السطر) ──────────────────
 module.exports = app;

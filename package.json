@@ -1,8 +1,11 @@
 {
-  "name": "new-backend",
+  "name": "qa3at-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Qa3at Backend API — Node.js / Express / MongoDB",
   "main": "server.js",
+  "engines": {
+    "node": ">=18.x"
+  },
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js",
