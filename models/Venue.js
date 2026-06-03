@@ -72,6 +72,7 @@ const venueSchema = new mongoose.Schema(
       default: 'HOTEL',
       index: true,
     },
+    stars: { type: Number, default: null, index: true },
     pricingModel: { type: String, default: null },
 
     // ✅ Photos embedded directly (NoSQL advantage)

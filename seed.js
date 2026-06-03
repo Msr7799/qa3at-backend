@@ -54,6 +54,7 @@ function buildVenueDocs(venues) {
     reviewCount: v.reviewCount || 0,
     amenities: v.amenities || [],
     type: v.type || 'HOTEL',
+    stars: v.stars || null,
     pricingModel: v.pricingModel || null,
     photos: (v.images || []).map(img => ({
       id: img.id,

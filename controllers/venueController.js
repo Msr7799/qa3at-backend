@@ -2,7 +2,7 @@ import Venue from '../models/Venue.js';
 import { catchAsync, AppError } from '../middleware/errorHandler.js';
 
 // ── GET /api/venues ───────────────────────────────────────────────────────
-// Query params: city, type, capacity, search, page, limit, featured
+// Query params: city, type, capacity, search, page, limit, featured, sortBy, stars
 
 export const getVenues = catchAsync(async (req, res) => {
   const {
@@ -11,6 +11,8 @@ export const getVenues = catchAsync(async (req, res) => {
     capacity,
     search,
     featured,
+    stars,
+    sortBy,
     page = 1,
     limit = 20,
   } = req.query;
@@ -25,6 +27,7 @@ export const getVenues = catchAsync(async (req, res) => {
     filter.capacity = { $gte: parseInt(capacity, 10) };
   }
   if (featured === 'true') filter.isFeatured = true;
+  if (stars) filter.stars = parseInt(stars, 10);
 
   // Text search across name, nameAr, description
   if (search) {
@@ -34,9 +37,31 @@ export const getVenues = catchAsync(async (req, res) => {
   const skip = (parseInt(page, 10) - 1) * parseInt(limit, 10);
   const limitNum = parseInt(limit, 10);
 
+  // ── Determine sort order ──────────────────────────────────────────────────
+  let sortStage = {};
+  switch (sortBy) {
+    case 'luxury':
+      // luxuryRank ascending = most luxury first (rank 1 = most luxurious)
+      sortStage = { luxuryRank: 1, rating: -1 };
+      break;
+    case 'price_asc':
+      sortStage = { pricePerPerson: 1, basePrice: 1 };
+      break;
+    case 'price_desc':
+      sortStage = { pricePerPerson: -1, basePrice: -1 };
+      break;
+    case 'rating':
+      sortStage = { rating: -1 };
+      break;
+    default:
+      // Default: luxury rank first, then rating
+      sortStage = { isFeatured: -1, luxuryRank: 1, rating: -1 };
+      break;
+  }
+
   const [venues, total] = await Promise.all([
     Venue.find(filter)
-      .sort({ isFeatured: -1, luxuryRank: 1, rating: -1 })
+      .sort(sortStage)
       .skip(skip)
       .limit(limitNum)
       .lean(),
