@@ -13,6 +13,7 @@
 | `MONGODB_URI` | رابط الاتصال بقاعدة بيانات MongoDB Atlas | `mongodb+srv://user:pass@cluster.mongodb.net/dbname` |
 | `JWT_SECRET` | مفتاح تشفير التوكن الخاص بالمصادقة | `your_super_jwt_secret_key` |
 | `JWT_EXPIRES_IN` | مدة صلاحية توكن تسجيل الدخول | `30d` |
+| `GOOGLE_STUDIO_API` | مفتاح الـ API لـ Google AI Studio (لتشغيل Gemini 2.5 Flash) | `AQ.Ab8RN6KLbhTh...` |
 | `PORT` | المنفذ المحلي لتشغيل السيرفر (افتراضي: 3000) | `3000` |
 | `NODE_ENV` | بيئة التشغيل الحالية | `development` أو `production` |
 
@@ -165,16 +166,43 @@
 
 ---
 
-### 5. المساعد الذكي (AI Assistant Chat)
+### 5. المساعد الذكي (AI Assistant Chat - Gemini 2.5 Flash RAG)
 *المسار الأساسي: `/api/assistant`*
+
+الخدمة متكاملة مع نموذج **Gemini 2.5 Flash** وتعمل بنظام **RAG (Retrieval-Augmented Generation)** حيث يتم تزويد النموذج بقاعدة البيانات المحلية للقاعات (`venues.json` و `venue_photos.json`) وإحداثيات المدن (`bh.json`). 
+
+يستطيع المساعد:
+- فهم وفرز القاعات من الأغلى للأرخص وبالعكس.
+- تصنيف القاعات حسب الفخامة (`LUXURY` و `BALANCED` و `BUDGET`) بناءً على التقييمات والأسعار والمستندات.
+- تصفية القاعات حسب المدينة والطاقة الاستيعابية للضيوف.
+- قراءة وتحديد الصور المناسبة وروابطها لتزويد المستخدم بها.
 
 * **المحادثة مع المساعد**:
   - **الرابط**: `POST /api/assistant/chat`
   - **محتوى الطلب (JSON)**:
     ```json
     {
-      "message": "أريد حجز قاعة تتسع لـ 200 شخص في المنامة",
-      "language": "ar"
+      "message": "أريد قاعة فخمة في المنامة تتسع لـ 150 شخص"
+    }
+    ```
+  - **صيغة الاستجابة الهيكلية المتوقعة**:
+    ```json
+    {
+      "success": true,
+      "data": {
+        "reply": "بالتأكيد! إليك أفضل الخيارات...",
+        "recommendations": [
+          {
+            "venueId": "cmllhb8gt009zmt40v9sa2pny",
+            "venueName": "Exhibition World Bahrain",
+            "venueNameAr": "مركز البحرين العالمي للمعارض",
+            "tier": "LUXURY",
+            "reason": "This award-winning, world-class convention center offers grand halls...",
+            "reasonAr": "مركز مؤتمرات عالمي حائز على جوائز، يوفر قاعات فخمة...",
+            "estimatedTotal": 1000
+          }
+        ]
+      }
     }
     ```
 
